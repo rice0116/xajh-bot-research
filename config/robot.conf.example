@@ -1,0 +1,25 @@
+[Account]
+prefix                          = test
+start                           = 10001
+end                             = 10002
+password                        = CHANGE_ME
+role                            = -1
+
+[VirtualClient]
+output_normal_info              = active
+init_region                     = (0.0,0.0)(1.0,1.0)
+logic_tick_time                 = 5
+logic_tick_range                = 16
+logic_tick_priority             = 2
+
+[GLinkClient]
+type                            = tcp
+port                            = 9223
+address                         = 192.0.2.10
+so_sndbuf                       = 16384
+so_rcvbuf                       = 16384
+ibuffermax                      = 16384
+obuffermax                      = 65535
+accumulate                      = 131072
+sender_interval                 = 200000
+tcp_nodelay                     = 1
