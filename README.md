@@ -16,7 +16,11 @@
 | NPC／移動物件觀測 | 已驗證 |
 | 選擇目標與伺服器回顯 | 已驗證 |
 | `skills.data` 格式 25 讀取 | 已驗證 |
-| 普通攻擊 | 待取得一次官方客戶端的 command 31 明文封包 |
+| command 31 離線解析 | 已驗證：38-byte 欄位、目標與座標 |
+| S2C command 88 離線解析 | 部分：14-byte 布局與 `reason` |
+| S2C command 86 觀測 | 部分：24-byte 布局、source role、skill ID |
+| S2C command 117 解析 | 部分：34-byte 布局、role_a／role_b、value、skill ID |
+| command 31 單次發送 | 4543／4542／5410 已被接受；4542 確認命中（S2C 117） |
 | 自動尋怪、接近、循環攻擊 | 尚未實作 |
 
 完整交接狀態見 [HANDOFF.md](HANDOFF.md)，協定欄位見 [docs/PROTOCOL.md](docs/PROTOCOL.md)。
@@ -61,7 +65,28 @@ java -jar dist/xajh-login-probe.jar \
   --world-log captures/world.log
 ```
 
-程式目前不會發送移動或攻擊。指定 `--target-id` 時，只有在自身角色及該 NPC 都已觀測到後才發送一次選擇目標。
+離線解析 command 31／88 擷取：
+
+```bash
+java -jar dist/xajh-login-probe.jar \
+  --replay-cast-log captures/xajh-stage11-gamedata.log
+```
+
+指定 `--target-id` 時，只有在自身角色及該 NPC 都已觀測到後才發送一次選擇目標。
+若要送一次 command 31，必須顯式加入 `--normal-attack-once --skill-id 4542`：
+
+```bash
+java -jar dist/xajh-login-probe.jar \
+  --host 192.0.2.10 --port 9223 --account test10001 --config robot.conf \
+  --role-id 12345 --enter-world --target-id 72057594037932528 \
+  --normal-attack-once --skill-id 4542 --observe-seconds 10
+```
+
+目前只接受已擷取的 4543／4542／5410，且必須等待 command 204 回顯相符。
+2026-10-22 實測三者都被接受；只有 4542 收到 self→target 的 S2C 117，
+因此先以 4542 驗證命中，不要把 4543／5410 當傷害技。收到 self→target 的 117 時
+`TARGET_SUMMARY` 會顯示 `combat_success=hit_observed`；`CAST_SUMMARY` 另分開
+`outgoing_hits`／`incoming_hits`。未指定 `--normal-attack-once` 時不會發送攻擊。
 
 ## 目錄
 
