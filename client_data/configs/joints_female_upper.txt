@@ -1,0 +1,37 @@
+Bip01 Spine1
+Bip01 Spine2
+Bip01 Neck
+Bip01 Head
+Bip01 Ponytail1
+Bip01 Ponytail11
+L_eye02
+R_eye02
+mouth
+R_eye01
+R_eyebrow
+L_eyebrow
+L_eye01
+×óĞØ
+ÓÒĞØ
+Bip01 L Clavicle
+Bip01 L UpperArm
+Bip01 L ForeArm
+Bip01 L Hand
+Bip01 L Finger0
+Bip01 L Finger01
+Bip01 L Finger1
+Bip01 L Finger11
+Bip01 L Finger2
+Bip01 L Finger21
+Bone_×óÊÖ±øÆ÷
+Bip01 R Clavicle
+Bip01 R UpperArm
+Bip01 R ForeArm
+Bip01 R Hand
+Bip01 R Finger0
+Bip01 R Finger01
+Bip01 R Finger1
+Bip01 R Finger11
+Bip01 R Finger2
+Bip01 R Finger21
+Bone_ÓÒÊÖ±øÆ÷1(ÉÈ×ÓÖ÷¹Ç)

@@ -1,0 +1,6612 @@
+// Portrait Camera description file
+
+version 3
+
+"Male"
+{
+"Bip01 Head"	// LookAt Bone
+1.343	// Cam Dist
+101.140	// Cam Yaw
+-1.288	// Cam Pitch
+0.008, 0.104, 0.003	// Cam LookAt Offset
+77.000	// Light Dist
+85.918	// Light Yaw
+-63.124	// Light Pitch
+1.009, -5.221, -0.485	// Light Offset
+}
+
+"Female"
+{
+"Bip01 Head"	// LookAt Bone
+1.046	// Cam Dist
+117.305	// Cam Yaw
+-5.419	// Cam Pitch
+0.009, 0.097, 0.005	// Cam LookAt Offset
+2666.808	// Light Dist
+89.938	// Light Yaw
+-19.250	// Light Pitch
+0.646, 1588.202, -0.001	// Light Offset
+}
+
+"NPCDefault"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"Male_Detail"
+{
+"Bip01 Head"	// LookAt Bone
+0.708	// Cam Dist
+88.568	// Cam Yaw
+-8.699	// Cam Pitch
+0.046, 0.054, 0.026	// Cam LookAt Offset
+}
+
+"Female_Detail"
+{
+"Bip01 Head"	// LookAt Bone
+0.810	// Cam Dist
+72.267	// Cam Yaw
+-0.600	// Cam Pitch
+0.000, 0.056, -0.000	// Cam LookAt Offset
+}
+
+"NPCDefault_Detail"
+{
+"Bip01 Head"	// LookAt Bone
+0.810	// Cam Dist
+72.267	// Cam Yaw
+-0.600	// Cam Pitch
+0.000, 0.056, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"Male_Speak"
+"Female_Speak"
+"NPCDefault_Speak"
+"NPC_18"
+{
+"Bip01 Head"	// LookAt Bone
+0.852	// Cam Dist
+69.724	// Cam Yaw
+7.201	// Cam Pitch
+0.015, 0.081, -0.005	// Cam LookAt Offset
+}
+
+"NPC_22"
+{
+"Bip01 Head"	// LookAt Bone
+0.663	// Cam Dist
+76.891	// Cam Yaw
+3.602	// Cam Pitch
+0.008, 0.063, -0.002	// Cam LookAt Offset
+}
+
+"NPC_29"
+{
+"Bip01 Head"	// LookAt Bone
+0.830	// Cam Dist
+86.389	// Cam Yaw
+1.300	// Cam Pitch
+-0.000, 0.074, -0.000	// Cam LookAt Offset
+}
+
+"NPC_30"
+{
+"Bip01 Head"	// LookAt Bone
+0.682	// Cam Dist
+72.111	// Cam Yaw
+-2.000	// Cam Pitch
+-0.001, 0.064, 0.000	// Cam LookAt Offset
+}
+
+"NPC_31"
+{
+"Bip01 Head"	// LookAt Bone
+0.992	// Cam Dist
+94.389	// Cam Yaw
+7.450	// Cam Pitch
+0.007, 0.131, -0.000	// Cam LookAt Offset
+}
+
+"NPC_32"
+{
+"Bip01 Head"	// LookAt Bone
+0.730	// Cam Dist
+74.556	// Cam Yaw
+-2.000	// Cam Pitch
+0.010, 0.053, -0.003	// Cam LookAt Offset
+}
+
+"NPC_33"
+{
+"Bip01 Head"	// LookAt Bone
+0.901	// Cam Dist
+112.500	// Cam Yaw
+1.800	// Cam Pitch
+-0.028, 0.100, -0.011	// Cam LookAt Offset
+}
+
+"NPC_34"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+72.945	// Cam Yaw
+3.550	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_35"
+{
+"Bip01 Head"	// LookAt Bone
+0.951	// Cam Dist
+110.945	// Cam Yaw
+-1.150	// Cam Pitch
+-0.028, 0.100, -0.010	// Cam LookAt Offset
+}
+
+"NPC_36"
+{
+"Bip01 Head"	// LookAt Bone
+0.807	// Cam Dist
+106.557	// Cam Yaw
+-5.649	// Cam Pitch
+-0.002, 0.071, -0.000	// Cam LookAt Offset
+}
+
+"NPC_37"
+{
+"Bip01 Head"	// LookAt Bone
+0.750	// Cam Dist
+117.001	// Cam Yaw
+9.451	// Cam Pitch
+-0.018, 0.077, -0.009	// Cam LookAt Offset
+}
+
+"NPC_38"
+{
+"Bip01 Head"	// LookAt Bone
+0.900	// Cam Dist
+66.334	// Cam Yaw
+9.350	// Cam Pitch
+0.012, 0.101, -0.005	// Cam LookAt Offset
+}
+
+"NPC_39"
+{
+"Bip01 Head"	// LookAt Bone
+0.770	// Cam Dist
+104.445	// Cam Yaw
+3.150	// Cam Pitch
+-0.010, 0.085, -0.003	// Cam LookAt Offset
+}
+
+"NPC_41"
+{
+"Bip01 Head"	// LookAt Bone
+0.786	// Cam Dist
+108.501	// Cam Yaw
+2.401	// Cam Pitch
+-0.011, 0.085, -0.004	// Cam LookAt Offset
+}
+
+"NPC_42"
+{
+"Bip01 Head"	// LookAt Bone
+0.920	// Cam Dist
+109.112	// Cam Yaw
+-1.849	// Cam Pitch
+-0.019, 0.052, -0.006	// Cam LookAt Offset
+}
+
+"NPC_43"
+{
+"Bip01 Head"	// LookAt Bone
+0.748	// Cam Dist
+103.167	// Cam Yaw
+10.850	// Cam Pitch
+-0.010, 0.064, -0.002	// Cam LookAt Offset
+}
+
+"NPC_72"
+{
+"Bip01 Head"	// LookAt Bone
+1.951	// Cam Dist
+57.114	// Cam Yaw
+12.602	// Cam Pitch
+0.077, 0.100, -0.047	// Cam LookAt Offset
+}
+
+"NPC_73"
+{
+"Bip01 Head"	// LookAt Bone
+0.630	// Cam Dist
+108.168	// Cam Yaw
+-5.798	// Cam Pitch
+-0.000, 0.060, 0.000	// Cam LookAt Offset
+}
+
+"NPC_Detail_73"
+{
+"Bip01 Head"	// LookAt Bone
+0.537	// Cam Dist
+72.469	// Cam Yaw
+-1.408	// Cam Pitch
+-0.018, 0.055, 0.006	// Cam LookAt Offset
+0.669	// Light Dist
+26.306	// Light Yaw
+-33.266	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_74"
+{
+"Bip01 Head"	// LookAt Bone
+0.740	// Cam Dist
+105.890	// Cam Yaw
+2.450	// Cam Pitch
+-0.010, 0.053, -0.003	// Cam LookAt Offset
+}
+
+"NPC_75"
+{
+"Bip01 Head"	// LookAt Bone
+0.730	// Cam Dist
+102.001	// Cam Yaw
+-4.799	// Cam Pitch
+0.000, 0.084, 0.000	// Cam LookAt Offset
+}
+
+"NPC_76"
+{
+"Bip01 Head"	// LookAt Bone
+0.726	// Cam Dist
+106.722	// Cam Yaw
+3.000	// Cam Pitch
+-0.003, 0.068, -0.001	// Cam LookAt Offset
+}
+
+"NPC_77"
+{
+"Bip01 Head"	// LookAt Bone
+0.920	// Cam Dist
+96.334	// Cam Yaw
+28.601	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_78"
+{
+"Bip01 Head"	// LookAt Bone
+0.830	// Cam Dist
+65.723	// Cam Yaw
+15.201	// Cam Pitch
+0.018, 0.086, -0.008	// Cam LookAt Offset
+}
+
+"NPC_79"
+{
+"Bip01 Head"	// LookAt Bone
+0.779	// Cam Dist
+68.947	// Cam Yaw
+7.253	// Cam Pitch
+-0.000, 0.066, 0.000	// Cam LookAt Offset
+}
+
+"NPC_80"
+{
+"Bip01 Head"	// LookAt Bone
+0.680	// Cam Dist
+67.335	// Cam Yaw
+19.601	// Cam Pitch
+0.000, 0.075, -0.000	// Cam LookAt Offset
+}
+
+"NPC_81"
+{
+"Bip01 Head"	// LookAt Bone
+0.670	// Cam Dist
+102.500	// Cam Yaw
+2.750	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_82"
+{
+"Bip01 Head"	// LookAt Bone
+0.690	// Cam Dist
+101.556	// Cam Yaw
+-4.299	// Cam Pitch
+0.000, 0.074, 0.000	// Cam LookAt Offset
+}
+
+"NPC_83"
+{
+"Bip01 Head"	// LookAt Bone
+0.880	// Cam Dist
+104.223	// Cam Yaw
+-1.099	// Cam Pitch
+-0.000, 0.095, 0.000	// Cam LookAt Offset
+}
+
+"NPC_84"
+{
+"Bip01 Head"	// LookAt Bone
+0.900	// Cam Dist
+110.057	// Cam Yaw
+-13.349	// Cam Pitch
+-0.019, 0.122, -0.007	// Cam LookAt Offset
+}
+
+"NPC_85"
+{
+"Bip01 Head"	// LookAt Bone
+0.772	// Cam Dist
+108.557	// Cam Yaw
+-10.149	// Cam Pitch
+-0.009, 0.069, -0.003	// Cam LookAt Offset
+}
+
+"NPC_86"
+{
+"Bip01 Head"	// LookAt Bone
+0.770	// Cam Dist
+76.390	// Cam Yaw
+-7.200	// Cam Pitch
+0.010, 0.086, -0.002	// Cam LookAt Offset
+}
+
+"NPC_87"
+{
+"Bip01 Head"	// LookAt Bone
+0.680	// Cam Dist
+96.501	// Cam Yaw
+1.402	// Cam Pitch
+0.000, 0.070, -0.000	// Cam LookAt Offset
+}
+
+"NPC_88"
+{
+"Bip01 Head"	// LookAt Bone
+0.790	// Cam Dist
+74.169	// Cam Yaw
+21.502	// Cam Pitch
+-0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_89"
+{
+"Bip01 Head"	// LookAt Bone
+1.454	// Cam Dist
+107.612	// Cam Yaw
+9.901	// Cam Pitch
+0.512, 0.203, 2.463	// Cam LookAt Offset
+}
+
+"NPC_90"
+{
+"Bip01 Head"	// LookAt Bone
+0.750	// Cam Dist
+101.280	// Cam Yaw
+-1.348	// Cam Pitch
+0.000, 0.076, 0.000	// Cam LookAt Offset
+}
+
+"NPC_91"
+{
+"Bip01 Head"	// LookAt Bone
+0.789	// Cam Dist
+72.002	// Cam Yaw
+-4.449	// Cam Pitch
+0.012, 0.054, -0.004	// Cam LookAt Offset
+}
+
+"NPC_92"
+{
+"Bip01 Head"	// LookAt Bone
+0.740	// Cam Dist
+102.390	// Cam Yaw
+-11.848	// Cam Pitch
+-0.000, 0.056, 0.000	// Cam LookAt Offset
+}
+
+"NPC_93"
+{
+"Bip01 Head"	// LookAt Bone
+0.688	// Cam Dist
+52.390	// Cam Yaw
+-8.499	// Cam Pitch
+-0.006, 0.079, 0.005	// Cam LookAt Offset
+}
+
+"NPC_94"
+{
+"Bip01 Head"	// LookAt Bone
+0.738	// Cam Dist
+105.556	// Cam Yaw
+5.651	// Cam Pitch
+0.000, 0.059, 0.000	// Cam LookAt Offset
+}
+
+"NPC_95"
+{
+"Bip01 Head"	// LookAt Bone
+0.800	// Cam Dist
+100.780	// Cam Yaw
+19.753	// Cam Pitch
+-0.009, 0.114, -0.002	// Cam LookAt Offset
+}
+
+"NPC_96"
+{
+"Bip01 Head"	// LookAt Bone
+0.841	// Cam Dist
+68.725	// Cam Yaw
+11.902	// Cam Pitch
+0.001, 0.089, -0.000	// Cam LookAt Offset
+}
+
+"NPC_97"
+{
+"Bip01 Head"	// LookAt Bone
+0.873	// Cam Dist
+69.224	// Cam Yaw
+40.152	// Cam Pitch
+0.018, 0.062, -0.006	// Cam LookAt Offset
+}
+
+"NPC_98"
+{
+"Bip01 Head"	// LookAt Bone
+0.795	// Cam Dist
+105.057	// Cam Yaw
+4.952	// Cam Pitch
+-0.027, 0.049, -0.007	// Cam LookAt Offset
+}
+
+"NPC_99"
+{
+"Bip01 Head"	// LookAt Bone
+0.880	// Cam Dist
+80.224	// Cam Yaw
+9.851	// Cam Pitch
+0.000, 0.092, 0.000	// Cam LookAt Offset
+}
+
+"NPC_100"
+{
+"Bip01 Head"	// LookAt Bone
+0.863	// Cam Dist
+71.834	// Cam Yaw
+20.950	// Cam Pitch
+0.020, 0.101, -0.006	// Cam LookAt Offset
+}
+
+"NPC_101"
+{
+"Bip01 Head"	// LookAt Bone
+1.157	// Cam Dist
+76.002	// Cam Yaw
+7.053	// Cam Pitch
+0.012, 0.153, -0.003	// Cam LookAt Offset
+}
+
+"NPC_102"
+{
+"Bip01 Head"	// LookAt Bone
+0.718	// Cam Dist
+64.389	// Cam Yaw
+1.150	// Cam Pitch
+0.000, 0.093, -0.000	// Cam LookAt Offset
+}
+
+"NPC_103"
+{
+"Bip01 Head"	// LookAt Bone
+0.751	// Cam Dist
+64.890	// Cam Yaw
+-4.398	// Cam Pitch
+0.022, 0.023, -0.010	// Cam LookAt Offset
+}
+
+"NPC_104"
+{
+"Bip01 Head"	// LookAt Bone
+0.870	// Cam Dist
+81.668	// Cam Yaw
+-4.049	// Cam Pitch
+0.000, 0.058, -0.000	// Cam LookAt Offset
+}
+
+"NPC_105"
+{
+"Bip01 Head"	// LookAt Bone
+0.965	// Cam Dist
+82.557	// Cam Yaw
+6.551	// Cam Pitch
+0.009, 0.076, -0.003	// Cam LookAt Offset
+}
+
+"NPC_106"
+{
+"Bip01 Head"	// LookAt Bone
+0.930	// Cam Dist
+99.834	// Cam Yaw
+1.550	// Cam Pitch
+0.000, 0.047, -0.000	// Cam LookAt Offset
+}
+
+"NPC_107"
+{
+"Bip01 Head"	// LookAt Bone
+0.750	// Cam Dist
+108.779	// Cam Yaw
+-1.550	// Cam Pitch
+-0.028, 0.054, -0.009	// Cam LookAt Offset
+}
+
+"NPC_108"
+{
+"Bip01 Head"	// LookAt Bone
+0.838	// Cam Dist
+60.834	// Cam Yaw
+2.100	// Cam Pitch
+0.008, 0.080, -0.005	// Cam LookAt Offset
+}
+
+"NPC_109"
+{
+"Bip01 Head"	// LookAt Bone
+0.641	// Cam Dist
+107.056	// Cam Yaw
+12.100	// Cam Pitch
+-0.010, 0.074, -0.003	// Cam LookAt Offset
+}
+
+"NPC_111"
+{
+"Bip01 Head"	// LookAt Bone
+0.790	// Cam Dist
+101.056	// Cam Yaw
+-4.699	// Cam Pitch
+0.000, -0.009, -0.000	// Cam LookAt Offset
+}
+
+"NPC_112"
+{
+"Bip01 Head"	// LookAt Bone
+1.191	// Cam Dist
+63.000	// Cam Yaw
+-3.350	// Cam Pitch
+0.036, -0.020, -0.018	// Cam LookAt Offset
+}
+
+"NPC_113"
+{
+"Bip01 Head"	// LookAt Bone
+0.939	// Cam Dist
+76.001	// Cam Yaw
+-2.000	// Cam Pitch
+-0.005, -0.016, 0.001	// Cam LookAt Offset
+}
+
+"NPC_114"
+{
+"Bip01 Head"	// LookAt Bone
+1.100	// Cam Dist
+68.001	// Cam Yaw
+-7.850	// Cam Pitch
+-0.000, 0.024, 0.000	// Cam LookAt Offset
+}
+
+"NPC_115"
+{
+"Bip01 Head"	// LookAt Bone
+0.600	// Cam Dist
+35.001	// Cam Yaw
+-6.500	// Cam Pitch
+0.006, 0.000, -0.008	// Cam LookAt Offset
+}
+
+"NPC_116"
+{
+"Bip01 Head"	// LookAt Bone
+0.800	// Cam Dist
+70.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.019, -0.004, -0.007	// Cam LookAt Offset
+}
+
+"NPC_119"
+{
+"Bip01 Head"	// LookAt Bone
+0.817	// Cam Dist
+91.168	// Cam Yaw
+-11.599	// Cam Pitch
+-0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_121"
+{
+"Bip01 Head"	// LookAt Bone
+1.014	// Cam Dist
+99.056	// Cam Yaw
+6.601	// Cam Pitch
+-0.011, 0.061, -0.002	// Cam LookAt Offset
+}
+
+"NPC_122"
+{
+"Bip01 Head"	// LookAt Bone
+0.676	// Cam Dist
+70.445	// Cam Yaw
+-2.500	// Cam Pitch
+0.006, 0.076, -0.002	// Cam LookAt Offset
+}
+
+"NPC_976"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+110.000	// Cam Yaw
+4.000	// Cam Pitch
+0.000, 0.000, 0.000	// Cam LookAt Offset
+}
+
+"NPC_977"
+{
+"Bip01 Head"	// LookAt Bone
+1.650	// Cam Dist
+99.834	// Cam Yaw
+-9.799	// Cam Pitch
+-0.000, -0.111, -0.000	// Cam LookAt Offset
+}
+
+"NPC_978"
+{
+"Bip01 Head"	// LookAt Bone
+1.721	// Cam Dist
+71.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.048, -0.158, -0.016	// Cam LookAt Offset
+}
+
+"NPC_979"
+{
+"Bip01 Head"	// LookAt Bone
+0.900	// Cam Dist
+73.334	// Cam Yaw
+12.500	// Cam Pitch
+0.000, -0.104, 0.000	// Cam LookAt Offset
+}
+
+"NPC_981"
+{
+"Bip01 Head"	// LookAt Bone
+1.301	// Cam Dist
+67.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.037, -0.014, -0.015	// Cam LookAt Offset
+}
+
+"NPC_983"
+{
+"Bip01 Head"	// LookAt Bone
+1.370	// Cam Dist
+67.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.028, -0.088, -0.011	// Cam LookAt Offset
+}
+
+"NPC_984"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_985"
+{
+"Bip01 Head"	// LookAt Bone
+1.420	// Cam Dist
+82.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, -0.008, 0.000	// Cam LookAt Offset
+}
+
+"NPC_988"
+{
+"Bip01 Head"	// LookAt Bone
+1.430	// Cam Dist
+64.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, -0.111, 0.000	// Cam LookAt Offset
+}
+
+"NPC_989"
+{
+"Bip01 Head"	// LookAt Bone
+1.100	// Cam Dist
+90.000	// Cam Yaw
+1.150	// Cam Pitch
+-0.030, -0.003, 0.000	// Cam LookAt Offset
+}
+
+"NPC_990"
+{
+"Bip01 Head"	// LookAt Bone
+0.490	// Cam Dist
+57.501	// Cam Yaw
+33.350	// Cam Pitch
+0.023, 0.029, -0.013	// Cam LookAt Offset
+}
+
+"NPC_991"
+{
+"Bip01 Head"	// LookAt Bone
+1.372	// Cam Dist
+46.390	// Cam Yaw
+3.301	// Cam Pitch
+0.082, -0.009, -0.072	// Cam LookAt Offset
+}
+
+"NPC_993"
+{
+"Bip01 Head"	// LookAt Bone
+1.271	// Cam Dist
+61.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.044, -0.078, -0.023	// Cam LookAt Offset
+}
+
+"NPC_994"
+{
+"Bip01 Head"	// LookAt Bone
+1.401	// Cam Dist
+67.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.037, -0.085, -0.015	// Cam LookAt Offset
+}
+
+"NPC_997"
+{
+"Bip01 Head"	// LookAt Bone
+0.790	// Cam Dist
+78.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.007, -0.000	// Cam LookAt Offset
+}
+
+"NPC_998"
+{
+"Bip01 Head"	// LookAt Bone
+0.680	// Cam Dist
+77.000	// Cam Yaw
+-0.200	// Cam Pitch
+-0.000, -0.046, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1000"
+{
+"Bip01 Head"	// LookAt Bone
+1.372	// Cam Dist
+57.001	// Cam Yaw
+6.101	// Cam Pitch
+0.051, -0.056, -0.032	// Cam LookAt Offset
+}
+
+"NPC_1001"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1004"
+{
+"Bip01 Head"	// LookAt Bone
+0.910	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, -0.064, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1010"
+{
+"Bip01 Head"	// LookAt Bone
+0.790	// Cam Dist
+107.667	// Cam Yaw
+11.950	// Cam Pitch
+-0.020, 0.070, -0.002	// Cam LookAt Offset
+}
+
+"NPC_1012"
+{
+"Bip01 Head"	// LookAt Bone
+0.882	// Cam Dist
+72.667	// Cam Yaw
+22.151	// Cam Pitch
+0.022, 0.124, -0.006	// Cam LookAt Offset
+}
+
+"NPC_1017"
+{
+"Bip01 Head"	// LookAt Bone
+0.828	// Cam Dist
+74.501	// Cam Yaw
+-14.549	// Cam Pitch
+-0.000, 0.028, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1020"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1024"
+{
+"Bip01 Head"	// LookAt Bone
+0.801	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.030, 0.082, 0.001	// Cam LookAt Offset
+}
+
+"NPC_1027"
+{
+"Bip01 Head"	// LookAt Bone
+0.800	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.063, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1028"
+{
+"Bip01 Head"	// LookAt Bone
+0.750	// Cam Dist
+73.778	// Cam Yaw
+30.451	// Cam Pitch
+-0.000, 0.077, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1030"
+{
+"Bip01 Head"	// LookAt Bone
+0.820	// Cam Dist
+79.500	// Cam Yaw
+0.550	// Cam Pitch
+-0.000, 0.055, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1031"
+{
+"Bip01 Head"	// LookAt Bone
+0.690	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.049, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1032"
+{
+"Bip01 Head"	// LookAt Bone
+0.854	// Cam Dist
+71.445	// Cam Yaw
+3.051	// Cam Pitch
+0.017, 0.082, -0.005	// Cam LookAt Offset
+}
+
+"NPC_1033"
+{
+"Bip01 Head"	// LookAt Bone
+0.833	// Cam Dist
+85.333	// Cam Yaw
+-11.200	// Cam Pitch
+0.019, 0.026, -0.005	// Cam LookAt Offset
+}
+
+"NPC_1035"
+{
+"Bip01 Head"	// LookAt Bone
+0.740	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, -0.106, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1036"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.063, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1037"
+{
+"Bip01 Head"	// LookAt Bone
+2.165	// Cam Dist
+80.000	// Cam Yaw
+-4.250	// Cam Pitch
+0.011, 0.111, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1038"
+{
+"Bip01 Head"	// LookAt Bone
+1.088	// Cam Dist
+73.001	// Cam Yaw
+10.050	// Cam Pitch
+0.010, 0.055, -0.003	// Cam LookAt Offset
+}
+
+"NPC_1039"
+{
+"Bip01 Head"	// LookAt Bone
+0.807	// Cam Dist
+75.279	// Cam Yaw
+1.351	// Cam Pitch
+0.025, 0.054, -0.006	// Cam LookAt Offset
+}
+
+"NPC_1042"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+86.500	// Cam Yaw
+13.550	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1043"
+{
+"Bip01 Head"	// LookAt Bone
+0.804	// Cam Dist
+78.056	// Cam Yaw
+12.050	// Cam Pitch
+0.009, 0.101, -0.006	// Cam LookAt Offset
+}
+
+"NPC_1044"
+{
+"Bip01 Head"	// LookAt Bone
+0.860	// Cam Dist
+76.611	// Cam Yaw
+-5.550	// Cam Pitch
+0.000, 0.047, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1047"
+{
+"Bip01 Head"	// LookAt Bone
+0.664	// Cam Dist
+73.334	// Cam Yaw
+21.650	// Cam Pitch
+-0.000, 0.081, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1048"
+{
+"Bip01 Head"	// LookAt Bone
+0.820	// Cam Dist
+90.000	// Cam Yaw
+13.300	// Cam Pitch
+0.000, 0.060, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1049"
+{
+"Bip01 Head"	// LookAt Bone
+0.780	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.042, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1051"
+{
+"Bip01 Head"	// LookAt Bone
+0.936	// Cam Dist
+109.001	// Cam Yaw
+-5.399	// Cam Pitch
+-0.037, 0.034, -0.012	// Cam LookAt Offset
+}
+
+"NPC_1053"
+{
+"Bip01 Head"	// LookAt Bone
+0.770	// Cam Dist
+85.389	// Cam Yaw
+3.900	// Cam Pitch
+-0.020, 0.100, 0.004	// Cam LookAt Offset
+}
+
+"NPC_1057"
+{
+"Bip01 Head"	// LookAt Bone
+1.063	// Cam Dist
+109.278	// Cam Yaw
+30.450	// Cam Pitch
+-0.013, 0.097, -0.005	// Cam LookAt Offset
+}
+
+"NPC_1061"
+{
+"Bip01 Head"	// LookAt Bone
+0.407	// Cam Dist
+65.000	// Cam Yaw
+-0.650	// Cam Pitch
+-0.214, 0.754, 0.498	// Cam LookAt Offset
+}
+
+"NPC_1063"
+{
+"Bip01 Head"	// LookAt Bone
+0.740	// Cam Dist
+92.612	// Cam Yaw
+-3.249	// Cam Pitch
+0.000, 0.063, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1064"
+{
+"Bip01 Head"	// LookAt Bone
+0.746	// Cam Dist
+98.000	// Cam Yaw
+2.800	// Cam Pitch
+0.010, 0.100, 0.001	// Cam LookAt Offset
+}
+
+"NPC_1065"
+{
+"Bip01 Head"	// LookAt Bone
+0.784	// Cam Dist
+65.279	// Cam Yaw
+1.000	// Cam Pitch
+0.016, 0.079, -0.007	// Cam LookAt Offset
+}
+
+"NPC_1066"
+{
+"Bip01 Head"	// LookAt Bone
+0.708	// Cam Dist
+39.446	// Cam Yaw
+20.251	// Cam Pitch
+0.021, 0.058, -0.024	// Cam LookAt Offset
+}
+
+"NPC_1073"
+{
+"Bip01 Head"	// LookAt Bone
+1.055	// Cam Dist
+85.722	// Cam Yaw
+14.050	// Cam Pitch
+-0.014, 0.048, 0.001	// Cam LookAt Offset
+}
+
+"NPC_1074"
+{
+"Bip01 Head"	// LookAt Bone
+0.980	// Cam Dist
+90.000	// Cam Yaw
+15.100	// Cam Pitch
+0.000, 0.000, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1075"
+{
+"Bip01 Head"	// LookAt Bone
+1.003	// Cam Dist
+110.278	// Cam Yaw
+-10.199	// Cam Pitch
+-0.021, 0.064, -0.007	// Cam LookAt Offset
+}
+
+"NPC_1077"
+{
+"Bip01 Head"	// LookAt Bone
+0.970	// Cam Dist
+47.001	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, -0.000, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1078"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.019, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1082"
+{
+"Bip01 Head"	// LookAt Bone
+0.680	// Cam Dist
+77.445	// Cam Yaw
+20.401	// Cam Pitch
+0.005, 0.085, -0.001	// Cam LookAt Offset
+}
+
+"NPC_1094"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, -0.009, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1095"
+{
+"Bip01 Head"	// LookAt Bone
+1.420	// Cam Dist
+49.001	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.027, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1113"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.012, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1114"
+{
+"Bip01 Head"	// LookAt Bone
+0.770	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.027, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1116"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+67.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1134"
+{
+"Bip01 Head"	// LookAt Bone
+2.543	// Cam Dist
+78.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.128, 0.131, -0.024	// Cam LookAt Offset
+}
+
+"NPC_1473"
+{
+"Bip01 Head"	// LookAt Bone
+0.820	// Cam Dist
+93.556	// Cam Yaw
+-1.250	// Cam Pitch
+-0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1474"
+{
+"Bip01 Head"	// LookAt Bone
+1.883	// Cam Dist
+81.224	// Cam Yaw
+7.201	// Cam Pitch
+-1.074, 0.587, 0.566	// Cam LookAt Offset
+}
+
+"NPC_1475"
+{
+"Bip01 Head"	// LookAt Bone
+0.802	// Cam Dist
+75.669	// Cam Yaw
+9.851	// Cam Pitch
+0.010, 0.087, -0.002	// Cam LookAt Offset
+}
+
+"NPC_1476"
+{
+"Bip01 Head"	// LookAt Bone
+0.870	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.076, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1477"
+{
+"Bip01 Head"	// LookAt Bone
+0.690	// Cam Dist
+98.446	// Cam Yaw
+6.752	// Cam Pitch
+-0.000, 0.064, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1478"
+{
+"Bip01 Head"	// LookAt Bone
+0.860	// Cam Dist
+97.279	// Cam Yaw
+3.101	// Cam Pitch
+0.000, 0.077, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1479"
+{
+"Bip01 Head"	// LookAt Bone
+0.740	// Cam Dist
+103.834	// Cam Yaw
+18.701	// Cam Pitch
+0.000, 0.101, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1480"
+{
+"Bip01 Head"	// LookAt Bone
+0.850	// Cam Dist
+103.167	// Cam Yaw
+-8.250	// Cam Pitch
+-0.010, 0.060, -0.002	// Cam LookAt Offset
+}
+
+"NPC_1481"
+{
+"Bip01 Head"	// LookAt Bone
+0.782	// Cam Dist
+110.001	// Cam Yaw
+-3.298	// Cam Pitch
+-0.009, 0.064, -0.003	// Cam LookAt Offset
+}
+
+"NPC_1482"
+{
+"Bip01 Head"	// LookAt Bone
+0.720	// Cam Dist
+69.834	// Cam Yaw
+-4.648	// Cam Pitch
+-0.000, 0.068, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1483"
+{
+"Bip01 Head"	// LookAt Bone
+0.744	// Cam Dist
+118.446	// Cam Yaw
+2.701	// Cam Pitch
+-0.009, 0.058, -0.003	// Cam LookAt Offset
+}
+
+"NPC_1484"
+{
+"Bip01 Head"	// LookAt Bone
+0.810	// Cam Dist
+89.833	// Cam Yaw
+3.400	// Cam Pitch
+-0.000, 0.085, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1485"
+{
+"Bip01 Head"	// LookAt Bone
+0.473	// Cam Dist
+140.559	// Cam Yaw
+0.653	// Cam Pitch
+-0.378, 0.857, -0.195	// Cam LookAt Offset
+}
+
+"NPC_1486"
+{
+"Bip01 Head"	// LookAt Bone
+0.900	// Cam Dist
+74.556	// Cam Yaw
+-2.550	// Cam Pitch
+-0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1487"
+{
+"Bip01 Head"	// LookAt Bone
+0.880	// Cam Dist
+101.611	// Cam Yaw
+16.350	// Cam Pitch
+-0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1488"
+{
+"Bip01 Head"	// LookAt Bone
+0.910	// Cam Dist
+106.834	// Cam Yaw
+9.600	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1489"
+{
+"Bip01 Head"	// LookAt Bone
+0.861	// Cam Dist
+74.113	// Cam Yaw
+9.951	// Cam Pitch
+0.009, 0.100, -0.002	// Cam LookAt Offset
+}
+
+"NPC_Detail_1489"
+{
+"Bip01 Head"	// LookAt Bone
+0.642	// Cam Dist
+79.269	// Cam Yaw
+4.082	// Cam Pitch
+-0.063, 0.053, 0.021	// Cam LookAt Offset
+0.669	// Light Dist
+40.804	// Light Yaw
+-20.037	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_1490"
+{
+"Bip01 Head"	// LookAt Bone
+0.749	// Cam Dist
+97.670	// Cam Yaw
+-2.996	// Cam Pitch
+-0.000, 0.092, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1491"
+{
+"Bip01 Head"	// LookAt Bone
+1.393	// Cam Dist
+118.057	// Cam Yaw
+10.852	// Cam Pitch
+-0.019, 0.111, -0.010	// Cam LookAt Offset
+}
+
+"NPC_Detail_1491"
+{
+"Bip01 Head"	// LookAt Bone
+0.681	// Cam Dist
+91.170	// Cam Yaw
+-3.118	// Cam Pitch
+-0.030, 0.027, 0.004	// Cam LookAt Offset
+0.669	// Light Dist
+46.805	// Light Yaw
+-29.217	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_1492"
+{
+"Bip01 Head"	// LookAt Bone
+0.910	// Cam Dist
+77.500	// Cam Yaw
+-8.150	// Cam Pitch
+-0.010, 0.076, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1493"
+{
+"Bip01 Head"	// LookAt Bone
+0.770	// Cam Dist
+91.111	// Cam Yaw
+-14.199	// Cam Pitch
+-0.010, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1494"
+{
+"Bip01 Head"	// LookAt Bone
+0.809	// Cam Dist
+104.225	// Cam Yaw
+14.803	// Cam Pitch
+-0.010, 0.100, -0.003	// Cam LookAt Offset
+}
+
+"NPC_Detail_1494"
+{
+"Bip01 Head"	// LookAt Bone
+0.510	// Cam Dist
+74.771	// Cam Yaw
+-10.766	// Cam Pitch
+0.000, 0.056, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+43.007	// Light Yaw
+47.914	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_1495"
+{
+"Bip01 Head"	// LookAt Bone
+0.770	// Cam Dist
+112.500	// Cam Yaw
+4.200	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1496"
+{
+"Bip01 Head"	// LookAt Bone
+0.690	// Cam Dist
+77.334	// Cam Yaw
+-2.149	// Cam Pitch
+0.000, 0.062, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1497"
+{
+"Bip01 Head"	// LookAt Bone
+0.766	// Cam Dist
+104.168	// Cam Yaw
+-7.549	// Cam Pitch
+-0.007, 0.064, -0.002	// Cam LookAt Offset
+}
+
+"NPC_1498"
+{
+"Bip01 Head"	// LookAt Bone
+0.762	// Cam Dist
+80.279	// Cam Yaw
+-4.950	// Cam Pitch
+-0.001, 0.088, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1499"
+{
+"Bip01 Head"	// LookAt Bone
+0.910	// Cam Dist
+107.834	// Cam Yaw
+9.051	// Cam Pitch
+0.000, 0.056, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1500"
+{
+"Bip01 Head"	// LookAt Bone
+0.918	// Cam Dist
+109.167	// Cam Yaw
+19.700	// Cam Pitch
+-0.019, 0.099, -0.007	// Cam LookAt Offset
+}
+
+"NPC_1501"
+{
+"Bip01 Head"	// LookAt Bone
+0.731	// Cam Dist
+102.225	// Cam Yaw
+8.803	// Cam Pitch
+-0.002, 0.080, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1502"
+{
+"Bip01 Head"	// LookAt Bone
+0.821	// Cam Dist
+69.223	// Cam Yaw
+9.250	// Cam Pitch
+0.005, 0.063, -0.002	// Cam LookAt Offset
+}
+
+"NPC_1503"
+{
+"Bip01 Head"	// LookAt Bone
+0.780	// Cam Dist
+79.167	// Cam Yaw
+5.901	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1505"
+{
+"Bip01 Head"	// LookAt Bone
+0.778	// Cam Dist
+73.668	// Cam Yaw
+14.952	// Cam Pitch
+0.009, 0.089, -0.003	// Cam LookAt Offset
+}
+
+"NPC_1506"
+{
+"Bip01 Head"	// LookAt Bone
+0.830	// Cam Dist
+107.167	// Cam Yaw
+6.001	// Cam Pitch
+-0.010, 0.100, -0.003	// Cam LookAt Offset
+}
+
+"NPC_1507"
+{
+"Bip01 Head"	// LookAt Bone
+0.839	// Cam Dist
+100.278	// Cam Yaw
+3.200	// Cam Pitch
+-0.001, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1508"
+{
+"Bip01 Head"	// LookAt Bone
+0.760	// Cam Dist
+88.611	// Cam Yaw
+-2.849	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1509"
+{
+"Bip01 Head"	// LookAt Bone
+0.790	// Cam Dist
+109.500	// Cam Yaw
+-6.949	// Cam Pitch
+-0.019, 0.066, -0.006	// Cam LookAt Offset
+}
+
+"NPC_1510"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+115.778	// Cam Yaw
+28.201	// Cam Pitch
+-0.000, 0.073, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1511"
+{
+"Bip01 Head"	// LookAt Bone
+0.800	// Cam Dist
+78.002	// Cam Yaw
+24.152	// Cam Pitch
+0.014, 0.090, -0.004	// Cam LookAt Offset
+}
+
+"NPC_1512"
+{
+"Bip01 Head"	// LookAt Bone
+1.120	// Cam Dist
+97.558	// Cam Yaw
+-6.496	// Cam Pitch
+0.000, -0.018, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1513"
+{
+"Bip01 Head"	// LookAt Bone
+0.870	// Cam Dist
+107.834	// Cam Yaw
+2.201	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1514"
+{
+"Bip01 Head"	// LookAt Bone
+0.802	// Cam Dist
+83.279	// Cam Yaw
+8.301	// Cam Pitch
+0.000, 0.074, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1515"
+{
+"Bip01 Head"	// LookAt Bone
+0.660	// Cam Dist
+68.556	// Cam Yaw
+2.701	// Cam Pitch
+0.000, 0.080, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1516"
+{
+"Bip01 Head"	// LookAt Bone
+1.436	// Cam Dist
+106.114	// Cam Yaw
+1.653	// Cam Pitch
+-0.007, 0.128, -0.004	// Cam LookAt Offset
+}
+
+"NPC_Detail_1516"
+{
+"Bip01 Head"	// LookAt Bone
+1.145	// Cam Dist
+85.369	// Cam Yaw
+4.577	// Cam Pitch
+-0.053, 0.050, 0.006	// Cam LookAt Offset
+0.201	// Light Dist
+124.705	// Light Yaw
+15.921	// Light Pitch
+-0.037, 0.313, -0.020	// Light Offset
+}
+
+"NPC_1517"
+{
+"Bip01 Head"	// LookAt Bone
+0.940	// Cam Dist
+102.725	// Cam Yaw
+6.653	// Cam Pitch
+0.000, 0.118, -0.000	// Cam LookAt Offset
+}
+
+"NPC_Detail_1517"
+{
+"Bip01 Head"	// LookAt Bone
+0.606	// Cam Dist
+71.570	// Cam Yaw
+-13.646	// Cam Pitch
+0.040, 0.108, -0.014	// Cam LookAt Offset
+0.669	// Light Dist
+123.306	// Light Yaw
+-49.309	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_1518"
+{
+"Bip01 Head"	// LookAt Bone
+0.772	// Cam Dist
+75.281	// Cam Yaw
+8.701	// Cam Pitch
+0.013, 0.070, -0.003	// Cam LookAt Offset
+}
+
+"NPC_1519"
+{
+"Bip01 Head"	// LookAt Bone
+0.890	// Cam Dist
+95.834	// Cam Yaw
+13.350	// Cam Pitch
+0.010, 0.067, -0.001	// Cam LookAt Offset
+}
+
+"NPC_Detail_1519"
+{
+"Bip01 Head"	// LookAt Bone
+0.811	// Cam Dist
+72.267	// Cam Yaw
+-0.600	// Cam Pitch
+0.029, 0.056, -0.009	// Cam LookAt Offset
+0.645	// Light Dist
+75.207	// Light Yaw
+8.675	// Light Pitch
+-0.062, 0.306, 0.020	// Light Offset
+}
+
+"NPC_1521"
+{
+"Bip01 Head"	// LookAt Bone
+0.816	// Cam Dist
+106.001	// Cam Yaw
+-5.699	// Cam Pitch
+-0.011, 0.066, -0.003	// Cam LookAt Offset
+}
+
+"NPC_1522"
+{
+"Bip01 Head"	// LookAt Bone
+0.900	// Cam Dist
+72.056	// Cam Yaw
+5.300	// Cam Pitch
+0.019, 0.100, -0.006	// Cam LookAt Offset
+}
+
+"NPC_1523"
+{
+"Bip01 Head"	// LookAt Bone
+0.800	// Cam Dist
+69.390	// Cam Yaw
+11.500	// Cam Pitch
+0.000, 0.069, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1524"
+{
+"Bip01 Head"	// LookAt Bone
+1.140	// Cam Dist
+108.945	// Cam Yaw
+-1.349	// Cam Pitch
+-0.019, 0.076, -0.006	// Cam LookAt Offset
+}
+
+"NPC_1525"
+{
+"Bip01 Head"	// LookAt Bone
+0.770	// Cam Dist
+75.056	// Cam Yaw
+19.300	// Cam Pitch
+0.010, 0.100, -0.003	// Cam LookAt Offset
+}
+
+"NPC_1526"
+{
+"Bip01 Head"	// LookAt Bone
+0.790	// Cam Dist
+111.000	// Cam Yaw
+11.101	// Cam Pitch
+0.000, 0.076, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1527"
+{
+"Bip01 Head"	// LookAt Bone
+0.810	// Cam Dist
+69.167	// Cam Yaw
+-9.500	// Cam Pitch
+-0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1528"
+{
+"Bip01 Head"	// LookAt Bone
+0.839	// Cam Dist
+93.056	// Cam Yaw
+-16.499	// Cam Pitch
+-0.020, 0.026, -0.001	// Cam LookAt Offset
+}
+
+"NPC_1529"
+{
+"Bip01 Head"	// LookAt Bone
+0.770	// Cam Dist
+89.111	// Cam Yaw
+-10.500	// Cam Pitch
+0.000, 0.024, -0.000	// Cam LookAt Offset
+}
+
+"NPC_Detail_1529"
+{
+"Bip01 Head"	// LookAt Bone
+0.699	// Cam Dist
+65.268	// Cam Yaw
+-4.379	// Cam Pitch
+0.018, 0.014, -0.008	// Cam LookAt Offset
+0.669	// Light Dist
+107.705	// Light Yaw
+57.452	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_1530"
+{
+"Bip01 Head"	// LookAt Bone
+0.920	// Cam Dist
+91.390	// Cam Yaw
+-9.199	// Cam Pitch
+-0.000, 0.048, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1531"
+{
+"Bip01 Head"	// LookAt Bone
+0.744	// Cam Dist
+79.223	// Cam Yaw
+8.051	// Cam Pitch
+0.010, 0.072, -0.002	// Cam LookAt Offset
+}
+
+"NPC_1532"
+{
+"Bip01 Head"	// LookAt Bone
+0.720	// Cam Dist
+71.890	// Cam Yaw
+9.401	// Cam Pitch
+0.019, 0.086, -0.006	// Cam LookAt Offset
+}
+
+"NPC_1533"
+{
+"Bip01 Head"	// LookAt Bone
+0.783	// Cam Dist
+104.224	// Cam Yaw
+0.953	// Cam Pitch
+-0.010, 0.054, -0.003	// Cam LookAt Offset
+}
+
+"NPC_1534"
+{
+"Bip01 Head"	// LookAt Bone
+0.676	// Cam Dist
+109.002	// Cam Yaw
+2.652	// Cam Pitch
+-0.008, 0.083, -0.003	// Cam LookAt Offset
+}
+
+"NPC_1535"
+{
+"Bip01 Head"	// LookAt Bone
+0.778	// Cam Dist
+105.280	// Cam Yaw
+5.703	// Cam Pitch
+-0.021, 0.076, -0.006	// Cam LookAt Offset
+}
+
+"NPC_1536"
+{
+"Bip01 Head"	// LookAt Bone
+0.771	// Cam Dist
+63.279	// Cam Yaw
+3.151	// Cam Pitch
+0.009, 0.061, 0.002	// Cam LookAt Offset
+}
+
+"NPC_1537"
+{
+"Bip01 Head"	// LookAt Bone
+0.810	// Cam Dist
+72.723	// Cam Yaw
+10.051	// Cam Pitch
+0.000, 0.073, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1538"
+{
+"Bip01 Head"	// LookAt Bone
+0.811	// Cam Dist
+116.335	// Cam Yaw
+0.452	// Cam Pitch
+-0.027, 0.049, -0.013	// Cam LookAt Offset
+}
+
+"NPC_1539"
+{
+"Bip01 Head"	// LookAt Bone
+0.890	// Cam Dist
+99.723	// Cam Yaw
+10.150	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1540"
+{
+"Bip01 Head"	// LookAt Bone
+0.698	// Cam Dist
+81.281	// Cam Yaw
+3.352	// Cam Pitch
+-0.003, 0.062, 0.001	// Cam LookAt Offset
+}
+
+"NPC_1541"
+{
+"Bip01 Head"	// LookAt Bone
+0.751	// Cam Dist
+79.503	// Cam Yaw
+6.303	// Cam Pitch
+0.004, 0.074, -0.003	// Cam LookAt Offset
+}
+
+"NPC_1542"
+{
+"Bip01 Head"	// LookAt Bone
+0.790	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.039, -0.000	// Cam LookAt Offset
+}
+
+"NPC_Detail_1542"
+{
+"Bip01 Head"	// LookAt Bone
+0.557	// Cam Dist
+119.772	// Cam Yaw
+11.464	// Cam Pitch
+0.004, 0.071, 0.002	// Cam LookAt Offset
+0.669	// Light Dist
+158.204	// Light Yaw
+51.782	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_1543"
+{
+"Bip01 Head"	// LookAt Bone
+0.771	// Cam Dist
+80.111	// Cam Yaw
+18.500	// Cam Pitch
+0.030, 0.066, -0.005	// Cam LookAt Offset
+}
+
+"NPC_Detail_1543"
+{
+"Bip01 Head"	// LookAt Bone
+0.693	// Cam Dist
+86.568	// Cam Yaw
+11.281	// Cam Pitch
+0.020, 0.058, -0.001	// Cam LookAt Offset
+0.669	// Light Dist
+43.803	// Light Yaw
+-35.788	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_1544"
+{
+"Bip01 Head"	// LookAt Bone
+0.810	// Cam Dist
+72.778	// Cam Yaw
+0.301	// Cam Pitch
+0.010, 0.065, -0.003	// Cam LookAt Offset
+}
+
+"NPC_Detail_1544"
+{
+"Bip01 Head"	// LookAt Bone
+0.810	// Cam Dist
+72.267	// Cam Yaw
+-0.600	// Cam Pitch
+0.000, 0.056, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+102.805	// Light Yaw
+53.133	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_1545"
+{
+"Bip01 Head"	// LookAt Bone
+0.750	// Cam Dist
+106.501	// Cam Yaw
+-1.599	// Cam Pitch
+-0.019, 0.100, -0.005	// Cam LookAt Offset
+}
+
+"NPC_1546"
+{
+"Bip01 Head"	// LookAt Bone
+0.900	// Cam Dist
+71.113	// Cam Yaw
+7.302	// Cam Pitch
+-0.000, 0.086, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1547"
+{
+"Bip01 Head"	// LookAt Bone
+0.790	// Cam Dist
+47.834	// Cam Yaw
+7.800	// Cam Pitch
+0.000, 0.067, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1548"
+{
+"Bip01 Head"	// LookAt Bone
+0.793	// Cam Dist
+104.167	// Cam Yaw
+3.451	// Cam Pitch
+0.001, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1549"
+{
+"Bip01 Head"	// LookAt Bone
+0.870	// Cam Dist
+97.556	// Cam Yaw
+9.050	// Cam Pitch
+-0.010, 0.100, -0.001	// Cam LookAt Offset
+}
+
+"NPC_1550"
+{
+"Bip01 Head"	// LookAt Bone
+0.899	// Cam Dist
+60.834	// Cam Yaw
+5.500	// Cam Pitch
+0.009, 0.100, -0.005	// Cam LookAt Offset
+}
+
+"NPC_1551"
+{
+"Bip01 Head"	// LookAt Bone
+0.805	// Cam Dist
+73.724	// Cam Yaw
+-6.549	// Cam Pitch
+0.016, 0.053, -0.005	// Cam LookAt Offset
+}
+
+"NPC_1552"
+{
+"Bip01 Head"	// LookAt Bone
+0.790	// Cam Dist
+93.333	// Cam Yaw
+7.950	// Cam Pitch
+0.000, 0.068, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1554"
+{
+"Bip01 Head"	// LookAt Bone
+0.880	// Cam Dist
+84.334	// Cam Yaw
+-22.100	// Cam Pitch
+0.000, 0.036, 0.000	// Cam LookAt Offset
+}
+
+"NPC_Detail_1554"
+{
+"Bip01 Head"	// LookAt Bone
+1.181	// Cam Dist
+76.768	// Cam Yaw
+8.895	// Cam Pitch
+0.009, 0.048, -0.005	// Cam LookAt Offset
+0.527	// Light Dist
+106.306	// Light Yaw
+38.779	// Light Pitch
+-0.057, 0.275, -0.012	// Light Offset
+}
+
+"NPC_Detail_1555"
+{
+"Bip01 Head"	// LookAt Bone
+0.810	// Cam Dist
+72.267	// Cam Yaw
+-0.600	// Cam Pitch
+0.000, 0.056, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+67.306	// Light Yaw
+36.303	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_1556"
+{
+"Bip01 Head"	// LookAt Bone
+0.870	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.079, -0.000	// Cam LookAt Offset
+}
+
+"NPC_Detail_1556"
+{
+"Bip01 Head"	// LookAt Bone
+0.810	// Cam Dist
+68.568	// Cam Yaw
+-4.199	// Cam Pitch
+0.000, 0.056, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+43.903	// Light Yaw
+-15.358	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_1557"
+{
+"Bip01 Head"	// LookAt Bone
+0.770	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.049, -0.000	// Cam LookAt Offset
+}
+
+"NPC_Detail_1557"
+{
+"Bip01 Head"	// LookAt Bone
+0.569	// Cam Dist
+70.277	// Cam Yaw
+14.349	// Cam Pitch
+-0.004, 0.039, 0.002	// Cam LookAt Offset
+0.669	// Light Dist
+147.203	// Light Yaw
+25.591	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_1558"
+{
+"Bip01 Head"	// LookAt Bone
+0.780	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.050, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1559"
+{
+"Bip01 Head"	// LookAt Bone
+0.720	// Cam Dist
+102.445	// Cam Yaw
+-4.800	// Cam Pitch
+0.000, 0.057, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1560"
+{
+"Bip01 Head"	// LookAt Bone
+0.790	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.077, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1561"
+{
+"Bip01 Head"	// LookAt Bone
+0.780	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.057, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1562"
+{
+"Bip01 Head"	// LookAt Bone
+0.870	// Cam Dist
+90.722	// Cam Yaw
+-1.300	// Cam Pitch
+0.000, 0.074, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1563"
+{
+"Bip01 Head"	// LookAt Bone
+0.804	// Cam Dist
+97.669	// Cam Yaw
+3.552	// Cam Pitch
+-0.001, 0.087, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1564"
+{
+"Bip01 Head"	// LookAt Bone
+0.800	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.063, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1565"
+{
+"Bip01 Head"	// LookAt Bone
+0.826	// Cam Dist
+115.167	// Cam Yaw
+3.500	// Cam Pitch
+-0.009, 0.071, -0.004	// Cam LookAt Offset
+}
+
+"NPC_1566"
+{
+"Bip01 Head"	// LookAt Bone
+0.830	// Cam Dist
+72.834	// Cam Yaw
+-2.850	// Cam Pitch
+0.010, 0.100, -0.003	// Cam LookAt Offset
+}
+
+"NPC_1567"
+{
+"Bip01 Head"	// LookAt Bone
+0.878	// Cam Dist
+107.834	// Cam Yaw
+-8.649	// Cam Pitch
+-0.018, 0.060, -0.009	// Cam LookAt Offset
+}
+
+"NPC_Detail_1567"
+{
+"Bip01 Head"	// LookAt Bone
+0.700	// Cam Dist
+72.267	// Cam Yaw
+-0.600	// Cam Pitch
+0.000, 0.077, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+25.504	// Light Yaw
+22.262	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_1568"
+{
+"Bip01 Head"	// LookAt Bone
+0.950	// Cam Dist
+102.724	// Cam Yaw
+13.202	// Cam Pitch
+-0.000, 0.086, 0.000	// Cam LookAt Offset
+}
+
+"NPC_1569"
+{
+"Bip01 Head"	// LookAt Bone
+0.880	// Cam Dist
+104.334	// Cam Yaw
+-9.999	// Cam Pitch
+0.000, 0.021, -0.000	// Cam LookAt Offset
+}
+
+"NPC_Detail_1569"
+{
+"Bip01 Head"	// LookAt Bone
+0.810	// Cam Dist
+72.267	// Cam Yaw
+-0.600	// Cam Pitch
+0.000, 0.056, -0.000	// Cam LookAt Offset
+0.425	// Light Dist
+87.303	// Light Yaw
+-14.368	// Light Pitch
+-0.065, 0.313, 0.008	// Light Offset
+}
+
+"NPC_1571"
+{
+"Bip01 Head"	// LookAt Bone
+0.849	// Cam Dist
+111.001	// Cam Yaw
+20.852	// Cam Pitch
+-0.008, 0.100, -0.003	// Cam LookAt Offset
+}
+
+"NPC_Detail_1571"
+{
+"Bip01 Head"	// LookAt Bone
+0.751	// Cam Dist
+143.769	// Cam Yaw
+5.521	// Cam Pitch
+0.017, 0.067, 0.025	// Cam LookAt Offset
+0.669	// Light Dist
+111.505	// Light Yaw
+48.004	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_1572"
+{
+"Bip01 Head"	// LookAt Bone
+0.755	// Cam Dist
+95.059	// Cam Yaw
+49.353	// Cam Pitch
+-0.029, 0.080, -0.016	// Cam LookAt Offset
+}
+
+"NPC_1573"
+{
+"Bip01 Head"	// LookAt Bone
+0.961	// Cam Dist
+107.446	// Cam Yaw
+13.651	// Cam Pitch
+-0.020, 0.099, -0.006	// Cam LookAt Offset
+}
+
+"NPC_1575"
+{
+"Bip01 Head"	// LookAt Bone
+1.690	// Cam Dist
+110.503	// Cam Yaw
+-10.649	// Cam Pitch
+0.015, 0.075, 0.006	// Cam LookAt Offset
+}
+
+"NPC_Detail_1575"
+{
+"Bip01 Head"	// LookAt Bone
+0.789	// Cam Dist
+119.670	// Cam Yaw
+12.722	// Cam Pitch
+0.007, 0.001, 0.006	// Cam LookAt Offset
+0.669	// Light Dist
+44.312	// Light Yaw
+-60.171	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_1582"
+{
+"Bip01 Head"	// LookAt Bone
+0.840	// Cam Dist
+61.000	// Cam Yaw
+3.050	// Cam Pitch
+0.000, 0.070, 0.000	// Cam LookAt Offset
+}
+
+"NPC_Detail_1582"
+{
+"Bip01 Head"	// LookAt Bone
+0.589	// Cam Dist
+104.174	// Cam Yaw
+8.857	// Cam Pitch
+-0.003, 0.054, -0.001	// Cam LookAt Offset
+0.669	// Light Dist
+114.205	// Light Yaw
+62.721	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_1583"
+{
+"Bip01 Head"	// LookAt Bone
+0.830	// Cam Dist
+90.390	// Cam Yaw
+-0.349	// Cam Pitch
+-0.000, 0.058, -0.000	// Cam LookAt Offset
+}
+
+"NPC_Detail_1583"
+{
+"Bip01 Head"	// LookAt Bone
+0.715	// Cam Dist
+87.072	// Cam Yaw
+-7.166	// Cam Pitch
+0.080, 0.024, -0.011	// Cam LookAt Offset
+0.680	// Light Dist
+56.406	// Light Yaw
+-9.146	// Light Pitch
+-0.131, 0.307, 0.051	// Light Offset
+}
+
+"NPC_Detail_1584"
+{
+"Bip01 Head"	// LookAt Bone
+0.670	// Cam Dist
+63.177	// Cam Yaw
+-8.333	// Cam Pitch
+0.081, 0.055, -0.034	// Cam LookAt Offset
+0.669	// Light Dist
+161.205	// Light Yaw
+-42.356	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_1585"
+{
+"Bip01 Head"	// LookAt Bone
+0.861	// Cam Dist
+108.001	// Cam Yaw
+-2.200	// Cam Pitch
+-0.007, 0.073, -0.002	// Cam LookAt Offset
+}
+
+"NPC_Detail_1585"
+{
+"Bip01 Head"	// LookAt Bone
+0.596	// Cam Dist
+111.873	// Cam Yaw
+6.782	// Cam Pitch
+-0.025, 0.056, -0.009	// Cam LookAt Offset
+0.669	// Light Dist
+42.103	// Light Yaw
+43.141	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_1586"
+{
+"Bip01 Head"	// LookAt Bone
+0.870	// Cam Dist
+72.834	// Cam Yaw
+6.050	// Cam Pitch
+-0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_Detail_1586"
+{
+"Bip01 Head"	// LookAt Bone
+0.680	// Cam Dist
+69.168	// Cam Yaw
+2.371	// Cam Pitch
+0.000, 0.056, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+28.912	// Light Yaw
+-46.988	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_1590"
+{
+"Bip01 Head"	// LookAt Bone
+0.985	// Cam Dist
+76.334	// Cam Yaw
+-3.299	// Cam Pitch
+-0.009, 0.072, 0.002	// Cam LookAt Offset
+}
+
+"NPC_Detail_1590"
+{
+"Bip01 Head"	// LookAt Bone
+0.783	// Cam Dist
+78.970	// Cam Yaw
+-9.102	// Cam Pitch
+-0.013, -0.009, 0.003	// Cam LookAt Offset
+0.041	// Light Dist
+131.803	// Light Yaw
+-28.406	// Light Pitch
+-0.046, 0.320, -0.000	// Light Offset
+}
+
+"NPC_1966"
+{
+"Bip01 Head"	// LookAt Bone
+0.790	// Cam Dist
+108.946	// Cam Yaw
+5.502	// Cam Pitch
+-0.000, 0.104, -0.000	// Cam LookAt Offset
+}
+
+"NPC_1967"
+{
+"Bip01 Head"	// LookAt Bone
+0.785	// Cam Dist
+100.668	// Cam Yaw
+3.801	// Cam Pitch
+-0.013, 0.082, -0.002	// Cam LookAt Offset
+}
+
+"NPC_1968"
+{
+"Bip01 Head"	// LookAt Bone
+0.840	// Cam Dist
+107.501	// Cam Yaw
+5.601	// Cam Pitch
+0.000, 0.073, 0.000	// Cam LookAt Offset
+}
+
+"NPC_3599"
+{
+"Bip01 Head"	// LookAt Bone
+1.340	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_3601"
+{
+"Bip01 Head"	// LookAt Bone
+2.690	// Cam Dist
+68.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.010, -0.000	// Cam LookAt Offset
+}
+
+"NPC_3603"
+{
+"Bip01 Head"	// LookAt Bone
+0.660	// Cam Dist
+114.000	// Cam Yaw
+7.900	// Cam Pitch
+-0.009, 0.044, -0.004	// Cam LookAt Offset
+}
+
+"NPC_3604"
+{
+"Bip01 Head"	// LookAt Bone
+1.845	// Cam Dist
+76.278	// Cam Yaw
+4.951	// Cam Pitch
+0.059, 0.100, -0.019	// Cam LookAt Offset
+}
+
+"NPC_3605"
+{
+"Bip01 Head"	// LookAt Bone
+0.950	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.069, -0.000	// Cam LookAt Offset
+}
+
+"NPC_3607"
+{
+"Bip01 Head"	// LookAt Bone
+1.001	// Cam Dist
+90.000	// Cam Yaw
+19.150	// Cam Pitch
+-0.040, 0.069, 0.001	// Cam LookAt Offset
+}
+
+"NPC_3609"
+{
+"Bip01 Head"	// LookAt Bone
+0.770	// Cam Dist
+101.334	// Cam Yaw
+13.150	// Cam Pitch
+-0.010, 0.068, -0.002	// Cam LookAt Offset
+}
+
+"NPC_3610"
+{
+"Bip01 Head"	// LookAt Bone
+0.720	// Cam Dist
+75.389	// Cam Yaw
+21.550	// Cam Pitch
+0.019, 0.075, -0.005	// Cam LookAt Offset
+}
+
+"NPC_Detail_3610"
+{
+"Bip01 Head"	// LookAt Bone
+0.756	// Cam Dist
+77.167	// Cam Yaw
+7.950	// Cam Pitch
+-0.057, 0.055, 0.015	// Cam LookAt Offset
+0.669	// Light Dist
+146.404	// Light Yaw
+34.773	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_Detail_3611"
+{
+"Bip01 Head"	// LookAt Bone
+0.810	// Cam Dist
+72.267	// Cam Yaw
+-0.600	// Cam Pitch
+0.000, 0.056, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+90.405	// Light Yaw
+-6.379	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_3612"
+{
+"Bip01 Head"	// LookAt Bone
+0.780	// Cam Dist
+83.500	// Cam Yaw
+16.800	// Cam Pitch
+0.000, 0.063, 0.000	// Cam LookAt Offset
+}
+
+"NPC_3646"
+{
+"INVALID"	// LookAt Bone
+}
+
+"NPC_3657"
+{
+"Bip01 Head"	// LookAt Bone
+0.870	// Cam Dist
+80.222	// Cam Yaw
+18.550	// Cam Pitch
+0.020, 0.100, -0.003	// Cam LookAt Offset
+}
+
+"NPC_4589"
+{
+"Bip01 Head"	// LookAt Bone
+1.017	// Cam Dist
+49.501	// Cam Yaw
+6.651	// Cam Pitch
+0.034, 0.079, -0.027	// Cam LookAt Offset
+}
+
+"NPC_4601"
+{
+"Bip01 Head"	// LookAt Bone
+0.829	// Cam Dist
+76.169	// Cam Yaw
+-5.999	// Cam Pitch
+-0.000, 0.041, 0.000	// Cam LookAt Offset
+}
+
+"NPC_Detail_4601"
+{
+"Bip01 Head"	// LookAt Bone
+0.810	// Cam Dist
+72.267	// Cam Yaw
+-0.600	// Cam Pitch
+0.010, 0.056, -0.003	// Cam LookAt Offset
+0.669	// Light Dist
+150.406	// Light Yaw
+-18.776	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_4606"
+{
+"Bip01 Head"	// LookAt Bone
+0.952	// Cam Dist
+66.278	// Cam Yaw
+10.850	// Cam Pitch
+0.019, 0.078, -0.004	// Cam LookAt Offset
+}
+
+"NPC_4607"
+{
+"Bip01 Head"	// LookAt Bone
+0.761	// Cam Dist
+98.278	// Cam Yaw
+-9.449	// Cam Pitch
+-0.020, 0.028, -0.003	// Cam LookAt Offset
+}
+
+"NPC_4608"
+{
+"Bip01 Head"	// LookAt Bone
+0.719	// Cam Dist
+119.945	// Cam Yaw
+-0.549	// Cam Pitch
+-0.009, 0.082, -0.005	// Cam LookAt Offset
+}
+
+"NPC_4609"
+{
+"Bip01 Head"	// LookAt Bone
+0.763	// Cam Dist
+64.334	// Cam Yaw
+2.401	// Cam Pitch
+0.009, 0.060, -0.004	// Cam LookAt Offset
+}
+
+"NPC_4610"
+{
+"Bip01 Head"	// LookAt Bone
+0.706	// Cam Dist
+67.334	// Cam Yaw
+-16.899	// Cam Pitch
+0.002, 0.085, -0.001	// Cam LookAt Offset
+}
+
+"NPC_4611"
+{
+"Bip01 Head"	// LookAt Bone
+0.749	// Cam Dist
+77.056	// Cam Yaw
+31.201	// Cam Pitch
+0.013, 0.072, -0.003	// Cam LookAt Offset
+}
+
+"NPC_4612"
+{
+"Bip01 Head"	// LookAt Bone
+1.918	// Cam Dist
+70.945	// Cam Yaw
+3.200	// Cam Pitch
+-0.890, 0.490, 0.639	// Cam LookAt Offset
+}
+
+"NPC_4613"
+{
+"Bip01 Head"	// LookAt Bone
+0.768	// Cam Dist
+61.779	// Cam Yaw
+-0.049	// Cam Pitch
+0.009, 0.071, -0.005	// Cam LookAt Offset
+}
+
+"NPC_Detail_4613"
+{
+"Bip01 Head"	// LookAt Bone
+1.078	// Cam Dist
+72.267	// Cam Yaw
+12.900	// Cam Pitch
+-0.100, 0.057, 0.038	// Cam LookAt Offset
+0.303	// Light Dist
+94.803	// Light Yaw
+21.501	// Light Pitch
+-0.149, 0.325, 0.026	// Light Offset
+}
+
+"NPC_4614"
+{
+"Bip01 Head"	// LookAt Bone
+0.721	// Cam Dist
+106.556	// Cam Yaw
+0.001	// Cam Pitch
+0.000, 0.064, 0.000	// Cam LookAt Offset
+}
+
+"NPC_4615"
+{
+"Bip01 Head"	// LookAt Bone
+0.852	// Cam Dist
+70.389	// Cam Yaw
+21.951	// Cam Pitch
+0.011, 0.080, -0.004	// Cam LookAt Offset
+}
+
+"NPC_4705"
+{
+"Bip01 Head"	// LookAt Bone
+3.362	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.998, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_4777"
+{
+"Bip01 Head"	// LookAt Bone
+0.770	// Cam Dist
+72.890	// Cam Yaw
+-8.599	// Cam Pitch
+0.010, 0.051, -0.003	// Cam LookAt Offset
+}
+
+"NPC_Detail_4777"
+{
+"Bip01 Head"	// LookAt Bone
+0.677	// Cam Dist
+68.870	// Cam Yaw
+2.732	// Cam Pitch
+-0.026, 0.032, 0.014	// Cam LookAt Offset
+0.669	// Light Dist
+43.707	// Light Yaw
+48.456	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_4810"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+86.278	// Cam Yaw
+13.650	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_4815"
+{
+"Bip01 Head"	// LookAt Bone
+1.089	// Cam Dist
+102.167	// Cam Yaw
+-11.099	// Cam Pitch
+0.038, 0.081, 0.009	// Cam LookAt Offset
+}
+
+"NPC_Detail_4815"
+{
+"Bip01 Head"	// LookAt Bone
+0.810	// Cam Dist
+72.267	// Cam Yaw
+-0.600	// Cam Pitch
+0.000, 0.056, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+65.105	// Light Yaw
+39.454	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_4816"
+{
+"Bip01 Head"	// LookAt Bone
+0.881	// Cam Dist
+101.612	// Cam Yaw
+24.301	// Cam Pitch
+-0.050, 0.100, 0.001	// Cam LookAt Offset
+}
+
+"NPC_Detail_4816"
+{
+"Bip01 Head"	// LookAt Bone
+0.812	// Cam Dist
+72.267	// Cam Yaw
+-0.600	// Cam Pitch
+-0.056, 0.056, 0.020	// Cam LookAt Offset
+0.669	// Light Dist
+44.506	// Light Yaw
+-21.025	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_4817"
+{
+"Bip01 Head"	// LookAt Bone
+1.205	// Cam Dist
+125.222	// Cam Yaw
+2.301	// Cam Pitch
+-0.024, 0.100, -0.016	// Cam LookAt Offset
+}
+
+"NPC_Detail_4817"
+{
+"Bip01 Head"	// LookAt Bone
+1.050	// Cam Dist
+78.468	// Cam Yaw
+-13.829	// Cam Pitch
+0.029, 0.143, -0.006	// Cam LookAt Offset
+0.669	// Light Dist
+133.905	// Light Yaw
+-18.957	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_4818"
+{
+"Bip01 Head"	// LookAt Bone
+1.008	// Cam Dist
+67.167	// Cam Yaw
+0.301	// Cam Pitch
+0.018, 0.047, -0.008	// Cam LookAt Offset
+}
+
+"NPC_Detail_4818"
+{
+"Bip01 Head"	// LookAt Bone
+0.690	// Cam Dist
+114.573	// Cam Yaw
+-20.035	// Cam Pitch
+-0.009, 0.028, -0.004	// Cam LookAt Offset
+0.669	// Light Dist
+104.103	// Light Yaw
+-42.267	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_4819"
+{
+"Bip01 Head"	// LookAt Bone
+0.831	// Cam Dist
+108.168	// Cam Yaw
+13.551	// Cam Pitch
+-0.029, 0.094, -0.009	// Cam LookAt Offset
+}
+
+"NPC_Detail_4819"
+{
+"Bip01 Head"	// LookAt Bone
+0.735	// Cam Dist
+98.069	// Cam Yaw
+1.111	// Cam Pitch
+0.019, 0.056, 0.003	// Cam LookAt Offset
+0.669	// Light Dist
+80.605	// Light Yaw
+-35.606	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_4859"
+{
+"Bip01 Head"	// LookAt Bone
+0.980	// Cam Dist
+117.167	// Cam Yaw
+13.450	// Cam Pitch
+-0.024, 0.103, -0.012	// Cam LookAt Offset
+}
+
+"NPC_4862"
+{
+"Bip01 Head"	// LookAt Bone
+0.890	// Cam Dist
+83.778	// Cam Yaw
+-10.600	// Cam Pitch
+0.010, 0.064, -0.001	// Cam LookAt Offset
+}
+
+"NPC_Detail_4862"
+{
+"Bip01 Head"	// LookAt Bone
+0.671	// Cam Dist
+79.268	// Cam Yaw
+3.630	// Cam Pitch
+-0.059, 0.056, 0.014	// Cam LookAt Offset
+0.669	// Light Dist
+98.611	// Light Yaw
+-0.952	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_Detail_4863"
+{
+"Bip01 Head"	// LookAt Bone
+0.560	// Cam Dist
+72.767	// Cam Yaw
+-13.379	// Cam Pitch
+0.000, 0.056, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+32.504	// Light Yaw
+7.683	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_5059"
+{
+"Bip01 Head"	// LookAt Bone
+0.994	// Cam Dist
+67.612	// Cam Yaw
+8.101	// Cam Pitch
+-0.018, 0.210, 0.009	// Cam LookAt Offset
+}
+
+"NPC_5060"
+{
+"Bip01 Head"	// LookAt Bone
+1.640	// Cam Dist
+86.001	// Cam Yaw
+3.402	// Cam Pitch
+-0.000, -0.103, -0.000	// Cam LookAt Offset
+}
+
+"NPC_5061"
+{
+"Bip01 Head"	// LookAt Bone
+1.261	// Cam Dist
+71.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.057, -0.080, -0.018	// Cam LookAt Offset
+}
+
+"NPC_5062"
+{
+"Bip01 Head"	// LookAt Bone
+2.283	// Cam Dist
+75.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.117, -0.230, -0.028	// Cam LookAt Offset
+}
+
+"NPC_5063"
+{
+"Bip01 Head"	// LookAt Bone
+1.002	// Cam Dist
+79.502	// Cam Yaw
+14.852	// Cam Pitch
+0.020, 0.070, -0.004	// Cam LookAt Offset
+}
+
+"NPC_5064"
+{
+"Bip01 Head"	// LookAt Bone
+0.923	// Cam Dist
+102.780	// Cam Yaw
+-3.296	// Cam Pitch
+-0.024, 0.073, -0.005	// Cam LookAt Offset
+}
+
+"NPC_5065"
+{
+"Bip01 Head"	// LookAt Bone
+0.978	// Cam Dist
+103.834	// Cam Yaw
+17.851	// Cam Pitch
+-0.018, 0.092, -0.004	// Cam LookAt Offset
+}
+
+"NPC_5066"
+{
+"Bip01 Head"	// LookAt Bone
+1.020	// Cam Dist
+119.834	// Cam Yaw
+10.751	// Cam Pitch
+-0.026, 0.084, -0.015	// Cam LookAt Offset
+}
+
+"NPC_5067"
+{
+"Bip01 Head"	// LookAt Bone
+0.860	// Cam Dist
+106.500	// Cam Yaw
+10.700	// Cam Pitch
+-0.019, 0.082, -0.006	// Cam LookAt Offset
+}
+
+"NPC_5068"
+{
+"Bip01 Head"	// LookAt Bone
+0.860	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.051, -0.000	// Cam LookAt Offset
+}
+
+"NPC_5069"
+{
+"Bip01 Head"	// LookAt Bone
+0.950	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.011, -0.000	// Cam LookAt Offset
+}
+
+"NPC_5070"
+{
+"Bip01 Head"	// LookAt Bone
+0.891	// Cam Dist
+140.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.031, 0.002, 0.039	// Cam LookAt Offset
+}
+
+"NPC_5071"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+91.556	// Cam Yaw
+7.800	// Cam Pitch
+0.000, 0.000, 0.000	// Cam LookAt Offset
+}
+
+"NPC_6040"
+{
+"Bip01 Head"	// LookAt Bone
+1.891	// Cam Dist
+54.001	// Cam Yaw
+-2.000	// Cam Pitch
+0.049, 0.100, -0.034	// Cam LookAt Offset
+}
+
+"NPC_6041"
+{
+"Bip01 Head"	// LookAt Bone
+2.030	// Cam Dist
+53.001	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_6042"
+{
+"Bip01 Head"	// LookAt Bone
+1.250	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_6043"
+{
+"Bip01 Head"	// LookAt Bone
+1.240	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_6047"
+{
+"Bip01 Head"	// LookAt Bone
+0.990	// Cam Dist
+90.000	// Cam Yaw
+-1.100	// Cam Pitch
+0.000, -0.053, 0.000	// Cam LookAt Offset
+}
+
+"NPC_6434"
+{
+"Bip01 Head"	// LookAt Bone
+2.657	// Cam Dist
+81.841	// Cam Yaw
+-1.642	// Cam Pitch
+-0.036, -0.180, 0.005	// Cam LookAt Offset
+}
+
+"NPC_6435"
+{
+"Bip01 Head"	// LookAt Bone
+0.797	// Cam Dist
+97.613	// Cam Yaw
+16.201	// Cam Pitch
+-0.033, 0.069, -0.004	// Cam LookAt Offset
+}
+
+"NPC_6437"
+{
+"Bip01 Head"	// LookAt Bone
+0.970	// Cam Dist
+67.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.028, 0.016, -0.011	// Cam LookAt Offset
+}
+
+"NPC_6589"
+{
+"Bip01 Head"	// LookAt Bone
+1.061	// Cam Dist
+80.168	// Cam Yaw
+19.602	// Cam Pitch
+-0.045, -0.003, 0.008	// Cam LookAt Offset
+}
+
+"NPC_6590"
+{
+"Bip01 Head"	// LookAt Bone
+1.572	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.070, -0.048, 0.002	// Cam LookAt Offset
+}
+
+"NPC_6591"
+{
+"Bip01 Head"	// LookAt Bone
+1.691	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.060, -0.031, 0.001	// Cam LookAt Offset
+}
+
+"NPC_6626"
+{
+"Bip01 Head"	// LookAt Bone
+0.820	// Cam Dist
+88.000	// Cam Yaw
+22.400	// Cam Pitch
+-0.010, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_6628"
+{
+"Bip01 Head"	// LookAt Bone
+1.251	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.050, 0.100, 0.001	// Cam LookAt Offset
+}
+
+"NPC_6629"
+{
+"Bip01 Head"	// LookAt Bone
+0.966	// Cam Dist
+136.225	// Cam Yaw
+41.952	// Cam Pitch
+0.049, 0.073, 0.053	// Cam LookAt Offset
+}
+
+"NPC_7112"
+{
+"Bip01 Head"	// LookAt Bone
+0.760	// Cam Dist
+118.890	// Cam Yaw
+-6.999	// Cam Pitch
+-0.009, 0.073, -0.018	// Cam LookAt Offset
+}
+
+"NPC_7114"
+{
+"Bip01 Head"	// LookAt Bone
+0.810	// Cam Dist
+111.334	// Cam Yaw
+19.851	// Cam Pitch
+-0.009, 0.100, -0.004	// Cam LookAt Offset
+}
+
+"NPC_7115"
+{
+"Bip01 Head"	// LookAt Bone
+0.919	// Cam Dist
+120.333	// Cam Yaw
+1.250	// Cam Pitch
+-0.026, 0.086, -0.015	// Cam LookAt Offset
+}
+
+"NPC_7117"
+{
+"Bip01 Head"	// LookAt Bone
+0.660	// Cam Dist
+66.669	// Cam Yaw
+-2.747	// Cam Pitch
+-0.000, 0.028, -0.000	// Cam LookAt Offset
+}
+
+"NPC_7118"
+{
+"Bip01 Head"	// LookAt Bone
+1.050	// Cam Dist
+79.946	// Cam Yaw
+8.352	// Cam Pitch
+-0.000, 0.048, -0.000	// Cam LookAt Offset
+}
+
+"NPC_7119"
+{
+"Bip01 Head"	// LookAt Bone
+0.837	// Cam Dist
+61.445	// Cam Yaw
+14.950	// Cam Pitch
+0.025, 0.057, -0.013	// Cam LookAt Offset
+}
+
+"NPC_7120"
+{
+"Bip01 Head"	// LookAt Bone
+0.770	// Cam Dist
+77.001	// Cam Yaw
+10.751	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_7122"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+90.222	// Cam Yaw
+12.700	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_7381"
+{
+"Bip01 Head"	// LookAt Bone
+0.838	// Cam Dist
+80.113	// Cam Yaw
+-23.449	// Cam Pitch
+-0.059, -0.008, 0.013	// Cam LookAt Offset
+}
+
+"NPC_7397"
+{
+"Bip01 Head"	// LookAt Bone
+0.542	// Cam Dist
+90.000	// Cam Yaw
+1.375	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_7405"
+{
+"Bip01 Head"	// LookAt Bone
+0.680	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, -0.015, 0.000	// Cam LookAt Offset
+}
+
+"NPC_7408"
+{
+"Bip01 Head"	// LookAt Bone
+1.371	// Cam Dist
+90.000	// Cam Yaw
+-1.999	// Cam Pitch
+-0.000, 0.292, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_7411"
+{
+"Bip01 Head"	// LookAt Bone
+0.726	// Cam Dist
+90.000	// Cam Yaw
+19.870	// Cam Pitch
+0.000, 1.358, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_7417"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.680, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_7433"
+{
+"Bip01 Head"	// LookAt Bone
+0.850	// Cam Dist
+108.389	// Cam Yaw
+8.100	// Cam Pitch
+-0.019, 0.100, -0.006	// Cam LookAt Offset
+}
+
+"NPC_7434"
+{
+"Bip01 Head"	// LookAt Bone
+0.930	// Cam Dist
+58.834	// Cam Yaw
+6.151	// Cam Pitch
+0.009, 0.083, -0.005	// Cam LookAt Offset
+}
+
+"NPC_7436"
+{
+"Bip01 Head"	// LookAt Bone
+0.781	// Cam Dist
+61.334	// Cam Yaw
+1.451	// Cam Pitch
+0.027, 0.100, -0.014	// Cam LookAt Offset
+}
+
+"NPC_7437"
+{
+"Bip01 Head"	// LookAt Bone
+0.778	// Cam Dist
+70.612	// Cam Yaw
+-2.500	// Cam Pitch
+-0.000, 0.079, 0.000	// Cam LookAt Offset
+}
+
+"NPC_7438"
+{
+"Bip01 Head"	// LookAt Bone
+0.790	// Cam Dist
+107.556	// Cam Yaw
+4.600	// Cam Pitch
+-0.019, 0.100, -0.006	// Cam LookAt Offset
+}
+
+"NPC_7440"
+{
+"Bip01 Head"	// LookAt Bone
+0.749	// Cam Dist
+87.779	// Cam Yaw
+6.750	// Cam Pitch
+0.012, 0.086, 0.001	// Cam LookAt Offset
+}
+
+"NPC_7441"
+{
+"Bip01 Head"	// LookAt Bone
+0.720	// Cam Dist
+60.390	// Cam Yaw
+8.001	// Cam Pitch
+-0.000, 0.072, 0.000	// Cam LookAt Offset
+}
+
+"NPC_7442"
+{
+"Bip01 Head"	// LookAt Bone
+0.803	// Cam Dist
+122.389	// Cam Yaw
+3.750	// Cam Pitch
+-0.008, 0.077, -0.005	// Cam LookAt Offset
+}
+
+"NPC_7443"
+{
+"Bip01 Head"	// LookAt Bone
+0.611	// Cam Dist
+90.000	// Cam Yaw
+0.250	// Cam Pitch
+-0.029, -0.000, 0.001	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_7458"
+{
+"Bip01 Head"	// LookAt Bone
+0.740	// Cam Dist
+71.667	// Cam Yaw
+9.200	// Cam Pitch
+0.000, 0.065, 0.000	// Cam LookAt Offset
+}
+
+"NPC_7460"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, -0.055, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_7805"
+{
+"Bip01 Head"	// LookAt Bone
+0.841	// Cam Dist
+118.778	// Cam Yaw
+9.051	// Cam Pitch
+-0.027, 0.079, -0.014	// Cam LookAt Offset
+}
+
+"NPC_7806"
+{
+"Bip01 Head"	// LookAt Bone
+0.724	// Cam Dist
+95.445	// Cam Yaw
+-8.548	// Cam Pitch
+-0.010, 0.051, -0.001	// Cam LookAt Offset
+}
+
+"NPC_7807"
+{
+"Bip01 Head"	// LookAt Bone
+0.901	// Cam Dist
+101.223	// Cam Yaw
+-19.600	// Cam Pitch
+-0.010, 0.083, -0.002	// Cam LookAt Offset
+}
+
+"NPC_7808"
+{
+"Bip01 Head"	// LookAt Bone
+0.975	// Cam Dist
+114.001	// Cam Yaw
+0.750	// Cam Pitch
+-0.027, 0.054, -0.012	// Cam LookAt Offset
+}
+
+"NPC_7809"
+{
+"Bip01 Head"	// LookAt Bone
+0.763	// Cam Dist
+99.278	// Cam Yaw
+4.051	// Cam Pitch
+-0.018, 0.065, -0.003	// Cam LookAt Offset
+}
+
+"NPC_7810"
+{
+"Bip01 Head"	// LookAt Bone
+0.909	// Cam Dist
+100.667	// Cam Yaw
+5.750	// Cam Pitch
+-0.010, 0.052, -0.002	// Cam LookAt Offset
+}
+
+"NPC_7811"
+{
+"Bip01 Head"	// LookAt Bone
+0.851	// Cam Dist
+92.166	// Cam Yaw
+-4.900	// Cam Pitch
+-0.010, 0.077, -0.000	// Cam LookAt Offset
+}
+
+"NPC_7813"
+{
+"Bip01 Head"	// LookAt Bone
+1.260	// Cam Dist
+31.613	// Cam Yaw
+-3.599	// Cam Pitch
+0.011, 0.100, -0.017	// Cam LookAt Offset
+}
+
+"NPC_7815"
+{
+"Bip01 Head"	// LookAt Bone
+0.910	// Cam Dist
+66.667	// Cam Yaw
+25.900	// Cam Pitch
+0.020, 0.100, -0.003	// Cam LookAt Offset
+}
+
+"NPC_7818"
+{
+"Bip01 Head"	// LookAt Bone
+0.970	// Cam Dist
+77.778	// Cam Yaw
+5.800	// Cam Pitch
+0.000, 0.051, -0.000	// Cam LookAt Offset
+}
+
+"NPC_7819"
+{
+"Bip01 Head"	// LookAt Bone
+0.970	// Cam Dist
+114.723	// Cam Yaw
+7.600	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_7820"
+{
+"Bip01 Head"	// LookAt Bone
+0.767	// Cam Dist
+84.945	// Cam Yaw
+7.401	// Cam Pitch
+0.001, 0.064, -0.000	// Cam LookAt Offset
+}
+
+"NPC_7821"
+{
+"Bip01 Head"	// LookAt Bone
+0.960	// Cam Dist
+99.445	// Cam Yaw
+15.501	// Cam Pitch
+-0.020, 0.090, -0.003	// Cam LookAt Offset
+}
+
+"NPC_7822"
+{
+"Bip01 Head"	// LookAt Bone
+0.844	// Cam Dist
+103.779	// Cam Yaw
+11.051	// Cam Pitch
+-0.014, 0.073, -0.003	// Cam LookAt Offset
+}
+
+"NPC_7823"
+{
+"Bip01 Head"	// LookAt Bone
+0.836	// Cam Dist
+66.223	// Cam Yaw
+4.401	// Cam Pitch
+-0.000, 0.099, 0.000	// Cam LookAt Offset
+}
+
+"NPC_7824"
+{
+"Bip01 Head"	// LookAt Bone
+0.823	// Cam Dist
+104.724	// Cam Yaw
+20.952	// Cam Pitch
+-0.010, 0.078, -0.000	// Cam LookAt Offset
+}
+
+"NPC_7825"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+90.000	// Cam Yaw
+17.800	// Cam Pitch
+0.000, 0.050, -0.000	// Cam LookAt Offset
+}
+
+"NPC_7826"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+75.333	// Cam Yaw
+21.100	// Cam Pitch
+-0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_7827"
+{
+"Bip01 Head"	// LookAt Bone
+0.836	// Cam Dist
+72.612	// Cam Yaw
+4.501	// Cam Pitch
+0.005, 0.070, -0.000	// Cam LookAt Offset
+}
+
+"NPC_7829"
+{
+"Bip01 Head"	// LookAt Bone
+1.087	// Cam Dist
+101.724	// Cam Yaw
+1.352	// Cam Pitch
+-0.019, 0.082, -0.012	// Cam LookAt Offset
+}
+
+"NPC_7830"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+76.501	// Cam Yaw
+14.100	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_7831"
+{
+"Bip01 Head"	// LookAt Bone
+1.160	// Cam Dist
+76.000	// Cam Yaw
+7.501	// Cam Pitch
+-0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_7832"
+{
+"Bip01 Head"	// LookAt Bone
+0.837	// Cam Dist
+61.278	// Cam Yaw
+1.501	// Cam Pitch
+0.018, 0.038, -0.010	// Cam LookAt Offset
+}
+
+"NPC_7833"
+{
+"Bip01 Head"	// LookAt Bone
+0.830	// Cam Dist
+85.778	// Cam Yaw
+6.700	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_7934"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+80.667	// Cam Yaw
+22.150	// Cam Pitch
+-0.000, 0.080, -0.000	// Cam LookAt Offset
+}
+
+"NPC_7935"
+{
+"Bip01 Head"	// LookAt Bone
+0.780	// Cam Dist
+74.279	// Cam Yaw
+15.101	// Cam Pitch
+0.010, 0.057, -0.003	// Cam LookAt Offset
+}
+
+"NPC_7936"
+{
+"Bip01 Head"	// LookAt Bone
+0.857	// Cam Dist
+108.223	// Cam Yaw
+15.751	// Cam Pitch
+-0.008, 0.087, -0.004	// Cam LookAt Offset
+}
+
+"NPC_7937"
+{
+"Bip01 Head"	// LookAt Bone
+0.730	// Cam Dist
+95.003	// Cam Yaw
+8.353	// Cam Pitch
+0.000, 0.050, -0.000	// Cam LookAt Offset
+}
+
+"NPC_Detail_7937"
+{
+"Bip01 Head"	// LookAt Bone
+0.810	// Cam Dist
+67.268	// Cam Yaw
+-0.600	// Cam Pitch
+0.000, 0.056, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_7938"
+{
+"Bip01 Head"	// LookAt Bone
+0.940	// Cam Dist
+105.612	// Cam Yaw
+1.400	// Cam Pitch
+-0.019, 0.067, -0.005	// Cam LookAt Offset
+}
+
+"NPC_Detail_7938"
+{
+"Bip01 Head"	// LookAt Bone
+0.811	// Cam Dist
+72.267	// Cam Yaw
+-0.600	// Cam Pitch
+0.038, 0.056, -0.011	// Cam LookAt Offset
+0.669	// Light Dist
+102.505	// Light Yaw
+37.292	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_7939"
+{
+"Bip01 Head"	// LookAt Bone
+0.691	// Cam Dist
+114.335	// Cam Yaw
+15.402	// Cam Pitch
+-0.009, 0.081, -0.004	// Cam LookAt Offset
+}
+
+"NPC_Detail_7939"
+{
+"Bip01 Head"	// LookAt Bone
+0.845	// Cam Dist
+97.270	// Cam Yaw
+-5.099	// Cam Pitch
+-0.018, 0.040, -0.005	// Cam LookAt Offset
+0.217	// Light Dist
+97.304	// Light Yaw
+0.257	// Light Pitch
+-0.064, 0.313, 0.001	// Light Offset
+}
+
+"NPC_7940"
+{
+"Bip01 Head"	// LookAt Bone
+0.860	// Cam Dist
+102.556	// Cam Yaw
+42.350	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_7941"
+{
+"Bip01 Head"	// LookAt Bone
+0.820	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.044, -0.000	// Cam LookAt Offset
+}
+
+"NPC_7943"
+{
+"Bip01 Head"	// LookAt Bone
+0.082	// Cam Dist
+93.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.010, 0.919, 0.162	// Cam LookAt Offset
+}
+
+"NPC_7945"
+{
+"Bip01 Head"	// LookAt Bone
+1.351	// Cam Dist
+117.223	// Cam Yaw
+8.201	// Cam Pitch
+-0.034, 0.103, -0.020	// Cam LookAt Offset
+}
+
+"NPC_7946"
+{
+"Bip01 Head"	// LookAt Bone
+1.070	// Cam Dist
+79.445	// Cam Yaw
+21.300	// Cam Pitch
+0.020, 0.100, -0.003	// Cam LookAt Offset
+}
+
+"NPC_7947"
+{
+"Bip01 Head"	// LookAt Bone
+1.244	// Cam Dist
+108.057	// Cam Yaw
+-4.448	// Cam Pitch
+-0.037, 0.099, -0.011	// Cam LookAt Offset
+}
+
+"NPC_7949"
+{
+"Bip01 Head"	// LookAt Bone
+0.613	// Cam Dist
+97.335	// Cam Yaw
+2.002	// Cam Pitch
+0.006, 0.080, 0.001	// Cam LookAt Offset
+}
+
+"NPC_7951"
+{
+"Bip01 Head"	// LookAt Bone
+0.777	// Cam Dist
+125.057	// Cam Yaw
+2.402	// Cam Pitch
+-0.013, 0.081, -0.010	// Cam LookAt Offset
+}
+
+"NPC_7952"
+{
+"Bip01 Head"	// LookAt Bone
+0.957	// Cam Dist
+69.889	// Cam Yaw
+11.350	// Cam Pitch
+0.009, 0.100, -0.003	// Cam LookAt Offset
+}
+
+"NPC_7953"
+{
+"Bip01 Head"	// LookAt Bone
+0.734	// Cam Dist
+56.834	// Cam Yaw
+10.650	// Cam Pitch
+0.001, 0.095, -0.000	// Cam LookAt Offset
+}
+
+"NPC_7954"
+{
+"Bip01 Head"	// LookAt Bone
+1.036	// Cam Dist
+98.556	// Cam Yaw
+-7.399	// Cam Pitch
+-0.027, 0.098, -0.004	// Cam LookAt Offset
+}
+
+"NPC_7955"
+{
+"Bip01 Head"	// LookAt Bone
+0.891	// Cam Dist
+112.667	// Cam Yaw
+1.101	// Cam Pitch
+-0.018, 0.073, -0.008	// Cam LookAt Offset
+}
+
+"NPC_7956"
+{
+"Bip01 Head"	// LookAt Bone
+0.870	// Cam Dist
+73.223	// Cam Yaw
+6.500	// Cam Pitch
+-0.010, 0.077, 0.003	// Cam LookAt Offset
+}
+
+"NPC_7957"
+{
+"Bip01 Head"	// LookAt Bone
+0.891	// Cam Dist
+69.112	// Cam Yaw
+9.200	// Cam Pitch
+0.028, 0.100, -0.010	// Cam LookAt Offset
+}
+
+"NPC_7958"
+{
+"Bip01 Head"	// LookAt Bone
+0.870	// Cam Dist
+77.167	// Cam Yaw
+20.451	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_7970"
+{
+"Bip01 Head"	// LookAt Bone
+0.818	// Cam Dist
+65.945	// Cam Yaw
+14.050	// Cam Pitch
+0.028, 0.100, -0.012	// Cam LookAt Offset
+}
+
+"NPC_7971"
+{
+"Bip01 Head"	// LookAt Bone
+1.110	// Cam Dist
+79.112	// Cam Yaw
+21.851	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_8180"
+{
+"Bip01 Head"	// LookAt Bone
+0.763	// Cam Dist
+103.000	// Cam Yaw
+8.650	// Cam Pitch
+-0.017, 0.064, -0.004	// Cam LookAt Offset
+}
+
+"NPC_8181"
+{
+"Bip01 Head"	// LookAt Bone
+0.781	// Cam Dist
+62.612	// Cam Yaw
+19.200	// Cam Pitch
+0.029, 0.079, -0.007	// Cam LookAt Offset
+}
+
+"NPC_8182"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+88.889	// Cam Yaw
+19.000	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_8184"
+{
+"Bip01 Head"	// LookAt Bone
+0.813	// Cam Dist
+84.667	// Cam Yaw
+10.500	// Cam Pitch
+-0.002, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_8186"
+{
+"Bip01 Head"	// LookAt Bone
+0.822	// Cam Dist
+106.278	// Cam Yaw
+7.100	// Cam Pitch
+-0.009, 0.097, -0.003	// Cam LookAt Offset
+}
+
+"NPC_8188"
+{
+"Bip01 Head"	// LookAt Bone
+4.855	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_8189"
+{
+"Bip01 Head"	// LookAt Bone
+0.820	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.019, -0.000	// Cam LookAt Offset
+}
+
+"NPC_8545"
+{
+"Bip01 Head"	// LookAt Bone
+0.891	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.030, 0.082, 0.001	// Cam LookAt Offset
+}
+
+"NPC_8546"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.064, -0.000	// Cam LookAt Offset
+}
+
+"NPC_8547"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+76.056	// Cam Yaw
+0.950	// Cam Pitch
+0.010, 0.055, -0.002	// Cam LookAt Offset
+}
+
+"NPC_8548"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+91.334	// Cam Yaw
+14.500	// Cam Pitch
+-0.000, 0.046, -0.000	// Cam LookAt Offset
+}
+
+"NPC_8549"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.053, -0.000	// Cam LookAt Offset
+}
+
+"NPC_8550"
+{
+"Bip01 Head"	// LookAt Bone
+0.988	// Cam Dist
+92.390	// Cam Yaw
+21.351	// Cam Pitch
+-0.002, 0.083, -0.000	// Cam LookAt Offset
+}
+
+"NPC_8552"
+{
+"Bip01 Head"	// LookAt Bone
+0.810	// Cam Dist
+99.612	// Cam Yaw
+-13.849	// Cam Pitch
+0.000, 0.049, -0.000	// Cam LookAt Offset
+}
+
+"NPC_8553"
+{
+"Bip01 Head"	// LookAt Bone
+0.841	// Cam Dist
+70.335	// Cam Yaw
+-0.348	// Cam Pitch
+0.001, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_8554"
+{
+"Bip01 Head"	// LookAt Bone
+0.799	// Cam Dist
+110.389	// Cam Yaw
+-2.149	// Cam Pitch
+0.000, 0.088, 0.000	// Cam LookAt Offset
+}
+
+"NPC_8555"
+{
+"Bip01 Head"	// LookAt Bone
+0.820	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.050, -0.000	// Cam LookAt Offset
+}
+
+"NPC_8556"
+{
+"Bip01 Head"	// LookAt Bone
+0.940	// Cam Dist
+90.778	// Cam Yaw
+6.100	// Cam Pitch
+-0.000, 0.081, 0.000	// Cam LookAt Offset
+}
+
+"NPC_8557"
+{
+"Bip01 Head"	// LookAt Bone
+0.864	// Cam Dist
+62.556	// Cam Yaw
+1.550	// Cam Pitch
+0.017, 0.068, -0.009	// Cam LookAt Offset
+}
+
+"NPC_8558"
+{
+"Bip01 Head"	// LookAt Bone
+0.830	// Cam Dist
+85.611	// Cam Yaw
+1.250	// Cam Pitch
+0.000, 0.073, 0.000	// Cam LookAt Offset
+}
+
+"NPC_8559"
+{
+"Bip01 Head"	// LookAt Bone
+0.779	// Cam Dist
+68.223	// Cam Yaw
+13.051	// Cam Pitch
+0.019, 0.080, -0.007	// Cam LookAt Offset
+}
+
+"NPC_8560"
+{
+"Bip01 Head"	// LookAt Bone
+0.770	// Cam Dist
+88.778	// Cam Yaw
+16.800	// Cam Pitch
+0.010, 0.048, -0.000	// Cam LookAt Offset
+}
+
+"NPC_8561"
+{
+"Bip01 Head"	// LookAt Bone
+0.820	// Cam Dist
+86.556	// Cam Yaw
+17.650	// Cam Pitch
+0.000, 0.079, -0.000	// Cam LookAt Offset
+}
+
+"NPC_8562"
+{
+"Bip01 Head"	// LookAt Bone
+0.790	// Cam Dist
+71.334	// Cam Yaw
+7.150	// Cam Pitch
+-0.009, 0.069, 0.005	// Cam LookAt Offset
+}
+
+"NPC_8564"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.047, 0.000	// Cam LookAt Offset
+}
+
+"NPC_8565"
+{
+"Bip01 Head"	// LookAt Bone
+0.820	// Cam Dist
+88.111	// Cam Yaw
+5.450	// Cam Pitch
+0.000, 0.047, -0.000	// Cam LookAt Offset
+}
+
+"NPC_8566"
+{
+"Bip01 Head"	// LookAt Bone
+0.640	// Cam Dist
+86.056	// Cam Yaw
+22.750	// Cam Pitch
+0.000, 0.060, 0.000	// Cam LookAt Offset
+}
+
+"NPC_8567"
+{
+"Bip01 Head"	// LookAt Bone
+0.920	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.041, -0.000	// Cam LookAt Offset
+}
+
+"NPC_8568"
+{
+"Bip01 Head"	// LookAt Bone
+0.660	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.047, -0.000	// Cam LookAt Offset
+}
+
+"NPC_8569"
+{
+"Bip01 Head"	// LookAt Bone
+0.680	// Cam Dist
+88.667	// Cam Yaw
+8.250	// Cam Pitch
+0.000, 0.057, -0.000	// Cam LookAt Offset
+}
+
+"NPC_8570"
+{
+"Bip01 Head"	// LookAt Bone
+0.790	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.081, -0.000	// Cam LookAt Offset
+}
+
+"NPC_8571"
+{
+"Bip01 Head"	// LookAt Bone
+0.760	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_8572"
+{
+"Bip01 Head"	// LookAt Bone
+0.820	// Cam Dist
+70.945	// Cam Yaw
+12.600	// Cam Pitch
+0.017, 0.100, -0.011	// Cam LookAt Offset
+}
+
+"NPC_8573"
+{
+"Bip01 Head"	// LookAt Bone
+0.870	// Cam Dist
+89.333	// Cam Yaw
+8.900	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_8662"
+{
+"Bip01 Head"	// LookAt Bone
+0.511	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.077, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_8665"
+{
+"Bip01 Head"	// LookAt Bone
+0.654	// Cam Dist
+113.113	// Cam Yaw
+20.102	// Cam Pitch
+-0.009, 0.070, -0.004	// Cam LookAt Offset
+}
+
+"NPC_8666"
+{
+"Bip01 Head"	// LookAt Bone
+0.870	// Cam Dist
+74.445	// Cam Yaw
+-4.850	// Cam Pitch
+0.019, 0.088, -0.005	// Cam LookAt Offset
+}
+
+"NPC_8674"
+{
+"Bip01 Head"	// LookAt Bone
+1.241	// Cam Dist
+108.389	// Cam Yaw
+8.100	// Cam Pitch
+0.047, 0.100, 0.017	// Cam LookAt Offset
+}
+
+"NPC_8675"
+{
+"Bip01 Head"	// LookAt Bone
+0.747	// Cam Dist
+110.056	// Cam Yaw
+1.051	// Cam Pitch
+-0.009, 0.075, -0.003	// Cam LookAt Offset
+}
+
+"NPC_9354"
+{
+"Bip01 Head"	// LookAt Bone
+0.801	// Cam Dist
+110.945	// Cam Yaw
+1.700	// Cam Pitch
+-0.038, 0.100, -0.013	// Cam LookAt Offset
+}
+
+"NPC_9355"
+{
+"Bip01 Head"	// LookAt Bone
+1.110	// Cam Dist
+93.500	// Cam Yaw
+20.601	// Cam Pitch
+0.010, -0.036, 0.001	// Cam LookAt Offset
+}
+
+"NPC_9356"
+{
+"Bip01 Head"	// LookAt Bone
+0.760	// Cam Dist
+83.556	// Cam Yaw
+-1.200	// Cam Pitch
+0.010, 0.077, -0.001	// Cam LookAt Offset
+}
+
+"NPC_9357"
+{
+"Bip01 Head"	// LookAt Bone
+0.880	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.020, -0.000	// Cam LookAt Offset
+}
+
+"NPC_9358"
+{
+"Bip01 Head"	// LookAt Bone
+1.554	// Cam Dist
+93.835	// Cam Yaw
+21.950	// Cam Pitch
+-0.100, 0.074, -0.003	// Cam LookAt Offset
+}
+
+"NPC_9359"
+{
+"Bip01 Head"	// LookAt Bone
+1.722	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.090, -0.040, 0.002	// Cam LookAt Offset
+}
+
+"NPC_9360"
+{
+"Bip01 Head"	// LookAt Bone
+1.001	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.050, 0.036, 0.001	// Cam LookAt Offset
+}
+
+"NPC_9361"
+{
+"Bip01 Head"	// LookAt Bone
+0.990	// Cam Dist
+96.334	// Cam Yaw
+30.201	// Cam Pitch
+-0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_9362"
+{
+"Bip01 Head"	// LookAt Bone
+0.813	// Cam Dist
+73.056	// Cam Yaw
+8.550	// Cam Pitch
+-0.000, 0.072, -0.000	// Cam LookAt Offset
+}
+
+"NPC_9363"
+{
+"Bip01 Head"	// LookAt Bone
+0.729	// Cam Dist
+109.501	// Cam Yaw
+0.100	// Cam Pitch
+-0.012, 0.083, -0.004	// Cam LookAt Offset
+}
+
+"NPC_9364"
+{
+"Bip01 Head"	// LookAt Bone
+0.782	// Cam Dist
+81.891	// Cam Yaw
+4.204	// Cam Pitch
+0.011, 0.090, 0.001	// Cam LookAt Offset
+}
+
+"NPC_9365"
+{
+"Bip01 Head"	// LookAt Bone
+1.080	// Cam Dist
+108.168	// Cam Yaw
+24.650	// Cam Pitch
+-0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_9366"
+{
+"Bip01 Head"	// LookAt Bone
+0.734	// Cam Dist
+75.334	// Cam Yaw
+7.700	// Cam Pitch
+0.010, 0.100, -0.002	// Cam LookAt Offset
+}
+
+"NPC_9368"
+{
+"Bip01 Head"	// LookAt Bone
+0.740	// Cam Dist
+92.111	// Cam Yaw
+3.600	// Cam Pitch
+0.010, 0.066, 0.000	// Cam LookAt Offset
+}
+
+"NPC_9369"
+{
+"Bip01 Head"	// LookAt Bone
+0.640	// Cam Dist
+103.112	// Cam Yaw
+-11.148	// Cam Pitch
+0.000, 0.065, -0.000	// Cam LookAt Offset
+}
+
+"NPC_9370"
+{
+"Bip01 Head"	// LookAt Bone
+0.720	// Cam Dist
+101.223	// Cam Yaw
+4.701	// Cam Pitch
+-0.010, 0.100, -0.003	// Cam LookAt Offset
+}
+
+"NPC_9540"
+{
+"Bip01 Head"	// LookAt Bone
+0.287	// Cam Dist
+98.891	// Cam Yaw
+15.852	// Cam Pitch
+0.164, 0.431, 0.109	// Cam LookAt Offset
+}
+
+"NPC_9541"
+{
+"Bip01 Head"	// LookAt Bone
+0.760	// Cam Dist
+76.112	// Cam Yaw
+35.300	// Cam Pitch
+-0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_9542"
+{
+"Bip01 Head"	// LookAt Bone
+1.227	// Cam Dist
+53.834	// Cam Yaw
+13.350	// Cam Pitch
+0.066, 0.099, -0.022	// Cam LookAt Offset
+}
+
+"NPC_9543"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+90.000	// Cam Yaw
+26.350	// Cam Pitch
+0.000, -0.044, -0.000	// Cam LookAt Offset
+}
+
+"NPC_9544"
+{
+"Bip01 Head"	// LookAt Bone
+0.710	// Cam Dist
+81.112	// Cam Yaw
+9.151	// Cam Pitch
+-0.029, 0.052, 0.005	// Cam LookAt Offset
+}
+
+"NPC_9612"
+{
+"Bip01 Head"	// LookAt Bone
+0.749	// Cam Dist
+68.612	// Cam Yaw
+7.250	// Cam Pitch
+0.019, 0.100, -0.005	// Cam LookAt Offset
+}
+
+"NPC_9613"
+{
+"Bip01 Head"	// LookAt Bone
+0.840	// Cam Dist
+75.501	// Cam Yaw
+5.401	// Cam Pitch
+0.000, 0.052, -0.000	// Cam LookAt Offset
+}
+
+"NPC_9614"
+{
+"Bip01 Head"	// LookAt Bone
+0.820	// Cam Dist
+72.890	// Cam Yaw
+20.300	// Cam Pitch
+0.010, 0.100, -0.003	// Cam LookAt Offset
+}
+
+"NPC_9615"
+{
+"Bip01 Head"	// LookAt Bone
+0.729	// Cam Dist
+115.667	// Cam Yaw
+-6.199	// Cam Pitch
+-0.027, 0.053, -0.009	// Cam LookAt Offset
+}
+
+"NPC_9616"
+{
+"Bip01 Head"	// LookAt Bone
+0.740	// Cam Dist
+74.556	// Cam Yaw
+-0.099	// Cam Pitch
+0.010, 0.073, -0.003	// Cam LookAt Offset
+}
+
+"NPC_9617"
+{
+"Bip01 Head"	// LookAt Bone
+0.827	// Cam Dist
+108.278	// Cam Yaw
+17.050	// Cam Pitch
+-0.011, 0.102, -0.003	// Cam LookAt Offset
+}
+
+"NPC_9618"
+{
+"Bip01 Head"	// LookAt Bone
+0.800	// Cam Dist
+124.889	// Cam Yaw
+-6.400	// Cam Pitch
+-0.000, 0.064, 0.000	// Cam LookAt Offset
+}
+
+"NPC_9619"
+{
+"Bip01 Head"	// LookAt Bone
+0.760	// Cam Dist
+115.557	// Cam Yaw
+12.201	// Cam Pitch
+-0.009, 0.100, -0.004	// Cam LookAt Offset
+}
+
+"NPC_9620"
+{
+"Bip01 Head"	// LookAt Bone
+0.800	// Cam Dist
+78.834	// Cam Yaw
+15.600	// Cam Pitch
+0.010, 0.100, -0.002	// Cam LookAt Offset
+}
+
+"NPC_9621"
+{
+"Bip01 Head"	// LookAt Bone
+1.083	// Cam Dist
+109.112	// Cam Yaw
+14.951	// Cam Pitch
+-0.010, 0.094, -0.004	// Cam LookAt Offset
+}
+
+"NPC_9622"
+{
+"Bip01 Head"	// LookAt Bone
+0.752	// Cam Dist
+109.723	// Cam Yaw
+-0.399	// Cam Pitch
+-0.017, 0.076, -0.006	// Cam LookAt Offset
+}
+
+"NPC_9623"
+{
+"Bip01 Head"	// LookAt Bone
+0.711	// Cam Dist
+69.613	// Cam Yaw
+0.302	// Cam Pitch
+0.009, 0.086, -0.003	// Cam LookAt Offset
+}
+
+"NPC_9624"
+{
+"Bip01 Head"	// LookAt Bone
+0.793	// Cam Dist
+84.667	// Cam Yaw
+28.900	// Cam Pitch
+-0.000, 0.101, 0.000	// Cam LookAt Offset
+}
+
+"NPC_9625"
+{
+"Bip01 Head"	// LookAt Bone
+0.949	// Cam Dist
+79.723	// Cam Yaw
+20.251	// Cam Pitch
+0.011, 0.066, -0.003	// Cam LookAt Offset
+}
+
+"NPC_9626"
+{
+"Bip01 Head"	// LookAt Bone
+0.849	// Cam Dist
+97.280	// Cam Yaw
+15.652	// Cam Pitch
+-0.049, 0.103, -0.009	// Cam LookAt Offset
+}
+
+"NPC_9627"
+{
+"Bip01 Head"	// LookAt Bone
+0.660	// Cam Dist
+76.669	// Cam Yaw
+18.401	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_9628"
+{
+"Bip01 Head"	// LookAt Bone
+0.611	// Cam Dist
+119.724	// Cam Yaw
+4.301	// Cam Pitch
+-0.023, 0.043, -0.012	// Cam LookAt Offset
+}
+
+"NPC_9629"
+{
+"Bip01 Head"	// LookAt Bone
+0.788	// Cam Dist
+116.946	// Cam Yaw
+10.951	// Cam Pitch
+-0.032, 0.076, -0.015	// Cam LookAt Offset
+}
+
+"NPC_9630"
+{
+"Bip01 Head"	// LookAt Bone
+0.907	// Cam Dist
+115.279	// Cam Yaw
+1.401	// Cam Pitch
+-0.009, 0.100, -0.005	// Cam LookAt Offset
+}
+
+"NPC_9631"
+{
+"Bip01 Head"	// LookAt Bone
+0.798	// Cam Dist
+110.778	// Cam Yaw
+2.750	// Cam Pitch
+-0.009, 0.080, -0.003	// Cam LookAt Offset
+}
+
+"NPC_9632"
+{
+"Bip01 Head"	// LookAt Bone
+0.741	// Cam Dist
+65.224	// Cam Yaw
+-0.048	// Cam Pitch
+0.000, 0.069, 0.000	// Cam LookAt Offset
+}
+
+"NPC_9633"
+{
+"Bip01 Head"	// LookAt Bone
+0.802	// Cam Dist
+103.501	// Cam Yaw
+-7.899	// Cam Pitch
+-0.010, 0.051, -0.002	// Cam LookAt Offset
+}
+
+"NPC_9634"
+{
+"Bip01 Head"	// LookAt Bone
+0.930	// Cam Dist
+75.779	// Cam Yaw
+8.200	// Cam Pitch
+-0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_9636"
+{
+"Bip01 Head"	// LookAt Bone
+0.748	// Cam Dist
+104.611	// Cam Yaw
+-13.299	// Cam Pitch
+-0.010, 0.069, -0.002	// Cam LookAt Offset
+}
+
+"NPC_9637"
+{
+"Bip01 Head"	// LookAt Bone
+0.758	// Cam Dist
+77.556	// Cam Yaw
+11.100	// Cam Pitch
+-0.010, 0.074, 0.002	// Cam LookAt Offset
+}
+
+"NPC_9638"
+{
+"Bip01 Head"	// LookAt Bone
+0.952	// Cam Dist
+107.778	// Cam Yaw
+16.400	// Cam Pitch
+-0.028, 0.039, -0.009	// Cam LookAt Offset
+}
+
+"NPC_9639"
+{
+"Bip01 Head"	// LookAt Bone
+0.750	// Cam Dist
+63.723	// Cam Yaw
+7.301	// Cam Pitch
+0.000, 0.081, -0.000	// Cam LookAt Offset
+}
+
+"NPC_9640"
+{
+"Bip01 Head"	// LookAt Bone
+0.731	// Cam Dist
+94.556	// Cam Yaw
+2.801	// Cam Pitch
+0.000, 0.081, 0.000	// Cam LookAt Offset
+}
+
+"NPC_9641"
+{
+"Bip01 Head"	// LookAt Bone
+0.820	// Cam Dist
+78.056	// Cam Yaw
+2.600	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_9642"
+{
+"Bip01 Head"	// LookAt Bone
+0.810	// Cam Dist
+112.500	// Cam Yaw
+0.500	// Cam Pitch
+-0.009, 0.100, -0.003	// Cam LookAt Offset
+}
+
+"NPC_9643"
+{
+"Bip01 Head"	// LookAt Bone
+0.759	// Cam Dist
+67.223	// Cam Yaw
+-11.148	// Cam Pitch
+-0.002, 0.055, -0.000	// Cam LookAt Offset
+}
+
+"NPC_9644"
+{
+"Bip01 Head"	// LookAt Bone
+0.740	// Cam Dist
+115.778	// Cam Yaw
+16.400	// Cam Pitch
+-0.018, 0.098, -0.009	// Cam LookAt Offset
+}
+
+"NPC_9645"
+{
+"Bip01 Head"	// LookAt Bone
+0.749	// Cam Dist
+75.612	// Cam Yaw
+-1.249	// Cam Pitch
+0.002, 0.099, -0.000	// Cam LookAt Offset
+}
+
+"NPC_9646"
+{
+"Bip01 Head"	// LookAt Bone
+0.740	// Cam Dist
+71.722	// Cam Yaw
+10.250	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_9647"
+{
+"Bip01 Head"	// LookAt Bone
+0.700	// Cam Dist
+100.167	// Cam Yaw
+-2.900	// Cam Pitch
+-0.020, 0.100, -0.003	// Cam LookAt Offset
+}
+
+"NPC_9648"
+{
+"Bip01 Head"	// LookAt Bone
+0.821	// Cam Dist
+125.501	// Cam Yaw
+16.701	// Cam Pitch
+-0.025, 0.100, -0.017	// Cam LookAt Offset
+}
+
+"NPC_9649"
+{
+"Bip01 Head"	// LookAt Bone
+0.830	// Cam Dist
+124.500	// Cam Yaw
+10.550	// Cam Pitch
+-0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_9650"
+{
+"Bip01 Head"	// LookAt Bone
+0.691	// Cam Dist
+110.334	// Cam Yaw
+-2.099	// Cam Pitch
+-0.010, 0.070, -0.003	// Cam LookAt Offset
+}
+
+"NPC_9651"
+{
+"Bip01 Head"	// LookAt Bone
+0.730	// Cam Dist
+74.778	// Cam Yaw
+-0.549	// Cam Pitch
+-0.000, 0.065, 0.000	// Cam LookAt Offset
+}
+
+"NPC_9652"
+{
+"Bip01 Head"	// LookAt Bone
+0.710	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.033, -0.000	// Cam LookAt Offset
+}
+
+"NPC_9653"
+{
+"Bip01 Head"	// LookAt Bone
+0.170	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.539, 0.340	// Cam LookAt Offset
+}
+
+"NPC_9655"
+{
+"Bip01 Head"	// LookAt Bone
+1.353	// Cam Dist
+66.223	// Cam Yaw
+31.251	// Cam Pitch
+0.063, -0.051, -0.026	// Cam LookAt Offset
+}
+
+"NPC_9656"
+{
+"Bip01 Head"	// LookAt Bone
+0.780	// Cam Dist
+68.613	// Cam Yaw
+14.151	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_9657"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+86.778	// Cam Yaw
+18.750	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_9658"
+{
+"Bip01 Head"	// LookAt Bone
+1.255	// Cam Dist
+98.056	// Cam Yaw
+8.401	// Cam Pitch
+0.001, 0.092, 0.000	// Cam LookAt Offset
+}
+
+"NPC_9659"
+{
+"Bip01 Head"	// LookAt Bone
+0.781	// Cam Dist
+101.779	// Cam Yaw
+1.851	// Cam Pitch
+0.016, -0.007, 0.004	// Cam LookAt Offset
+}
+
+"NPC_9660"
+{
+"Bip01 Head"	// LookAt Bone
+0.697	// Cam Dist
+80.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, -0.023, -0.000	// Cam LookAt Offset
+}
+
+"NPC_9770"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+101.833	// Cam Yaw
+11.650	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_9772"
+{
+"Bip01 Head"	// LookAt Bone
+0.780	// Cam Dist
+82.501	// Cam Yaw
+-1.450	// Cam Pitch
+-0.010, 0.087, -0.003	// Cam LookAt Offset
+}
+
+"NPC_9773"
+{
+"Bip01 Head"	// LookAt Bone
+1.340	// Cam Dist
+90.000	// Cam Yaw
+1.375	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_9775"
+{
+"Bip01 Head"	// LookAt Bone
+0.795	// Cam Dist
+116.111	// Cam Yaw
+-5.450	// Cam Pitch
+-0.008, 0.093, -0.004	// Cam LookAt Offset
+}
+
+"NPC_9776"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+93.333	// Cam Yaw
+-1.150	// Cam Pitch
+0.000, 0.000, 0.000	// Cam LookAt Offset
+}
+
+"NPC_10068"
+{
+"Bip01 Head"	// LookAt Bone
+0.649	// Cam Dist
+72.500	// Cam Yaw
+-9.599	// Cam Pitch
+-0.000, 0.075, 0.000	// Cam LookAt Offset
+}
+
+"NPC_10072"
+{
+"Bip01 Head"	// LookAt Bone
+0.779	// Cam Dist
+99.612	// Cam Yaw
+12.451	// Cam Pitch
+-0.010, 0.072, -0.002	// Cam LookAt Offset
+}
+
+"NPC_10073"
+{
+"Bip01 Head"	// LookAt Bone
+0.878	// Cam Dist
+77.000	// Cam Yaw
+8.650	// Cam Pitch
+0.010, 0.100, -0.002	// Cam LookAt Offset
+}
+
+"NPC_10105"
+{
+"Bip01 Head"	// LookAt Bone
+2.675	// Cam Dist
+75.895	// Cam Yaw
+3.751	// Cam Pitch
+-0.117, -0.212, 0.032	// Cam LookAt Offset
+}
+
+"NPC_Detail_10582"
+{
+"Bip01 Head"	// LookAt Bone
+0.668	// Cam Dist
+105.969	// Cam Yaw
+7.141	// Cam Pitch
+0.027, 0.060, 0.013	// Cam LookAt Offset
+0.669	// Light Dist
+151.807	// Light Yaw
+-3.789	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_10729"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+21.559	// Cam Yaw
+2.652	// Cam Pitch
+0.000, 0.000, 0.000	// Cam LookAt Offset
+}
+
+"NPC_10730"
+{
+"Bip01 Head"	// LookAt Bone
+0.818	// Cam Dist
+90.501	// Cam Yaw
+10.001	// Cam Pitch
+-0.000, 0.087, -0.000	// Cam LookAt Offset
+}
+
+"NPC_10731"
+{
+"Bip01 Head"	// LookAt Bone
+1.211	// Cam Dist
+52.613	// Cam Yaw
+4.801	// Cam Pitch
+0.018, -0.014, -0.013	// Cam LookAt Offset
+}
+
+"NPC_10732"
+{
+"Bip01 Head"	// LookAt Bone
+1.330	// Cam Dist
+104.945	// Cam Yaw
+25.000	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_10733"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_10734"
+{
+"Bip01 Head"	// LookAt Bone
+0.830	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_10735"
+{
+"Bip01 Head"	// LookAt Bone
+0.850	// Cam Dist
+74.890	// Cam Yaw
+15.200	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_10736"
+{
+"Bip01 Head"	// LookAt Bone
+1.523	// Cam Dist
+112.500	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.100, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_Detail_10736"
+{
+"Bip01 Head"	// LookAt Bone
+0.565	// Cam Dist
+112.092	// Cam Yaw
+-0.040	// Cam Pitch
+-0.043, 0.061, -0.027	// Cam LookAt Offset
+0.669	// Light Dist
+158.110	// Light Yaw
+38.062	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_Detail_10737"
+{
+"Bip01 Head"	// LookAt Bone
+0.532	// Cam Dist
+63.975	// Cam Yaw
+19.655	// Cam Pitch
+0.026, 0.086, -0.015	// Cam LookAt Offset
+0.669	// Light Dist
+70.804	// Light Yaw
+-43.797	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_10830"
+{
+"Bip01 Head"	// LookAt Bone
+1.370	// Cam Dist
+56.001	// Cam Yaw
+6.100	// Cam Pitch
+-0.000, -0.031, 0.000	// Cam LookAt Offset
+}
+
+"NPC_10833"
+{
+"Bip01 Head"	// LookAt Bone
+1.145	// Cam Dist
+89.390	// Cam Yaw
+2.801	// Cam Pitch
+-0.004, 0.043, 0.002	// Cam LookAt Offset
+}
+
+"NPC_10835"
+{
+"Bip01 Head"	// LookAt Bone
+0.377	// Cam Dist
+105.167	// Cam Yaw
+-0.200	// Cam Pitch
+0.108, 0.601, 0.680	// Cam LookAt Offset
+}
+
+"NPC_10837"
+{
+"Bip01 Head"	// LookAt Bone
+0.690	// Cam Dist
+42.001	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.010, -0.000	// Cam LookAt Offset
+}
+
+"NPC_10838"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+65.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, -0.042, 0.000	// Cam LookAt Offset
+}
+
+"NPC_10839"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+71.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.030, 0.000	// Cam LookAt Offset
+}
+
+"NPC_10840"
+{
+"Bip01 Head"	// LookAt Bone
+0.840	// Cam Dist
+59.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.017, -0.000	// Cam LookAt Offset
+}
+
+"NPC_10871"
+{
+"Bip01 Head"	// LookAt Bone
+1.351	// Cam Dist
+76.557	// Cam Yaw
+24.000	// Cam Pitch
+-0.048, -0.045, 0.013	// Cam LookAt Offset
+}
+
+"NPC_10872"
+{
+"Bip01 Head"	// LookAt Bone
+0.820	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.008, -0.000	// Cam LookAt Offset
+}
+
+"NPC_10873"
+{
+"Bip01 Head"	// LookAt Bone
+1.320	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_10874"
+{
+"Bip01 Head"	// LookAt Bone
+1.030	// Cam Dist
+86.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, -0.013, -0.000	// Cam LookAt Offset
+}
+
+"NPC_10875"
+{
+"Bip01 Head"	// LookAt Bone
+1.290	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_10876"
+{
+"Bip01 Head"	// LookAt Bone
+1.980	// Cam Dist
+78.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_10878"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_10881"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_10882"
+{
+"Bip01 Head"	// LookAt Bone
+1.320	// Cam Dist
+72.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.007, -0.000	// Cam LookAt Offset
+}
+
+"NPC_10883"
+{
+"Bip01 Head"	// LookAt Bone
+0.761	// Cam Dist
+102.056	// Cam Yaw
+11.801	// Cam Pitch
+-0.039, 0.060, -0.008	// Cam LookAt Offset
+}
+
+"NPC_10884"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.048, -0.000	// Cam LookAt Offset
+}
+
+"NPC_10885"
+{
+"Bip01 Head"	// LookAt Bone
+0.590	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.038, 0.000	// Cam LookAt Offset
+}
+
+"NPC_10886"
+{
+"Bip01 Head"	// LookAt Bone
+1.100	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.069, -0.000	// Cam LookAt Offset
+}
+
+"NPC_10888"
+{
+"Bip01 Head"	// LookAt Bone
+1.550	// Cam Dist
+75.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.049, -0.000	// Cam LookAt Offset
+}
+
+"NPC_10889"
+{
+"Bip01 Head"	// LookAt Bone
+0.423	// Cam Dist
+75.613	// Cam Yaw
+9.103	// Cam Pitch
+-0.063, 0.458, 0.787	// Cam LookAt Offset
+}
+
+"NPC_Detail_10906"
+{
+"Bip01 Head"	// LookAt Bone
+0.698	// Cam Dist
+78.770	// Cam Yaw
+-7.797	// Cam Pitch
+-0.012, 0.062, 0.004	// Cam LookAt Offset
+0.669	// Light Dist
+149.605	// Light Yaw
+24.243	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_Detail_10907"
+{
+"Bip01 Head"	// LookAt Bone
+0.515	// Cam Dist
+75.072	// Cam Yaw
+-8.427	// Cam Pitch
+0.009, 0.056, -0.003	// Cam LookAt Offset
+0.669	// Light Dist
+108.204	// Light Yaw
+81.573	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_Detail_10908"
+{
+"Bip01 Head"	// LookAt Bone
+0.544	// Cam Dist
+70.978	// Cam Yaw
+-1.673	// Cam Pitch
+0.013, 0.075, -0.004	// Cam LookAt Offset
+0.669	// Light Dist
+116.803	// Light Yaw
+-19.768	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_10912"
+{
+"Bip01 Head"	// LookAt Bone
+1.441	// Cam Dist
+90.000	// Cam Yaw
+-4.250	// Cam Pitch
+0.006, 0.102, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_Detail_10912"
+{
+"Bip01 Head"	// LookAt Bone
+0.983	// Cam Dist
+75.970	// Cam Yaw
+-1.769	// Cam Pitch
+-0.060, 0.056, 0.017	// Cam LookAt Offset
+1.197	// Light Dist
+130.205	// Light Yaw
+7.052	// Light Pitch
+-1.405, 0.405, -0.095	// Light Offset
+}
+
+"NPC_10913"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.092, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_Detail_10913"
+{
+"Bip01 Head"	// LookAt Bone
+0.598	// Cam Dist
+79.074	// Cam Yaw
+3.995	// Cam Pitch
+0.012, 0.104, -0.002	// Cam LookAt Offset
+0.739	// Light Dist
+9.710	// Light Yaw
+-22.466	// Light Pitch
+-0.222, 0.309, -0.308	// Light Offset
+}
+
+"NPC_11182"
+{
+"Bip01 Head"	// LookAt Bone
+0.789	// Cam Dist
+102.223	// Cam Yaw
+16.850	// Cam Pitch
+-0.010, 0.100, -0.002	// Cam LookAt Offset
+}
+
+"NPC_Detail_11418"
+{
+"Bip01 Head"	// LookAt Bone
+0.506	// Cam Dist
+105.071	// Cam Yaw
+-14.277	// Cam Pitch
+-0.018, 0.060, -0.005	// Cam LookAt Offset
+0.669	// Light Dist
+29.804	// Light Yaw
+44.853	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_Detail_11419"
+{
+"Bip01 Head"	// LookAt Bone
+0.770	// Cam Dist
+72.267	// Cam Yaw
+-0.600	// Cam Pitch
+0.019, 0.056, -0.006	// Cam LookAt Offset
+0.669	// Light Dist
+112.404	// Light Yaw
+27.572	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_11430"
+{
+"Bip01 Head"	// LookAt Bone
+0.809	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 1.313, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_11442"
+{
+"Bip01 Head"	// LookAt Bone
+1.847	// Cam Dist
+90.000	// Cam Yaw
+-5.375	// Cam Pitch
+-0.292, 1.556, 0.023	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_11660"
+{
+"Bip01 Head"	// LookAt Bone
+3.773	// Cam Dist
+107.501	// Cam Yaw
+-9.874	// Cam Pitch
+0.023, 0.105, 0.034	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_11669"
+{
+"Bip01 Head"	// LookAt Bone
+2.102	// Cam Dist
+107.500	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.140, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_11674"
+{
+"Bip01 Head"	// LookAt Bone
+0.852	// Cam Dist
+70.946	// Cam Yaw
+3.652	// Cam Pitch
+0.004, 0.102, -0.001	// Cam LookAt Offset
+}
+
+"NPC_Detail_11674"
+{
+"Bip01 Head"	// LookAt Bone
+0.480	// Cam Dist
+67.973	// Cam Yaw
+3.815	// Cam Pitch
+-0.000, 0.056, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+49.505	// Light Yaw
+21.631	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_11675"
+{
+"Bip01 Head"	// LookAt Bone
+0.928	// Cam Dist
+98.778	// Cam Yaw
+7.551	// Cam Pitch
+-0.020, 0.102, -0.004	// Cam LookAt Offset
+}
+
+"NPC_Detail_11676"
+{
+"Bip01 Head"	// LookAt Bone
+0.810	// Cam Dist
+72.267	// Cam Yaw
+-0.600	// Cam Pitch
+0.000, 0.056, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+142.606	// Light Yaw
+-25.525	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_Detail_11677"
+{
+"Bip01 Head"	// LookAt Bone
+0.810	// Cam Dist
+72.267	// Cam Yaw
+-0.600	// Cam Pitch
+0.000, 0.056, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+12.906	// Light Yaw
+22.534	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_11679"
+{
+"Bip01 Head"	// LookAt Bone
+0.882	// Cam Dist
+61.780	// Cam Yaw
+-3.198	// Cam Pitch
+0.007, 0.079, -0.004	// Cam LookAt Offset
+}
+
+"NPC_11683"
+{
+"Bip01 Head"	// LookAt Bone
+1.470	// Cam Dist
+102.500	// Cam Yaw
+-2.000	// Cam Pitch
+0.005, 0.085, 0.001	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_Detail_11683"
+{
+"Bip01 Head"	// LookAt Bone
+0.601	// Cam Dist
+109.786	// Cam Yaw
+-6.977	// Cam Pitch
+0.012, 0.041, 0.004	// Cam LookAt Offset
+0.656	// Light Dist
+130.316	// Light Yaw
+-20.931	// Light Pitch
+0.211, 0.069, 1.287	// Light Offset
+}
+
+"NPC_Detail_11684"
+{
+"Bip01 Head"	// LookAt Bone
+0.590	// Cam Dist
+79.767	// Cam Yaw
+16.051	// Cam Pitch
+0.000, 0.056, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+29.104	// Light Yaw
+13.622	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_Detail_11717"
+{
+"Bip01 Head"	// LookAt Bone
+0.765	// Cam Dist
+65.768	// Cam Yaw
+0.570	// Cam Pitch
+-0.027, 0.027, 0.013	// Cam LookAt Offset
+0.669	// Light Dist
+94.803	// Light Yaw
+54.122	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_Detail_11718"
+{
+"Bip01 Head"	// LookAt Bone
+0.784	// Cam Dist
+131.175	// Cam Yaw
+13.175	// Cam Pitch
+-0.080, 0.089, -0.061	// Cam LookAt Offset
+2.841	// Light Dist
+95.660	// Light Yaw
+46.312	// Light Pitch
+0.741, 0.716, 0.372	// Light Offset
+}
+
+"NPC_Detail_11719"
+{
+"Bip01 Head"	// LookAt Bone
+0.816	// Cam Dist
+75.367	// Cam Yaw
+2.640	// Cam Pitch
+-0.028, 0.056, 0.008	// Cam LookAt Offset
+0.669	// Light Dist
+-75.394	// Light Yaw
+-86.930	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_Detail_11720"
+{
+"Bip01 Head"	// LookAt Bone
+1.026	// Cam Dist
+72.074	// Cam Yaw
+22.535	// Cam Pitch
+-0.040, 0.099, 0.014	// Cam LookAt Offset
+0.584	// Light Dist
+136.408	// Light Yaw
+50.031	// Light Pitch
+-0.061, 0.244, -0.052	// Light Offset
+}
+
+"NPC_11721"
+{
+"Bip01 Head"	// LookAt Bone
+1.231	// Cam Dist
+70.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_Detail_11721"
+{
+"Bip01 Head"	// LookAt Bone
+0.552	// Cam Dist
+107.367	// Cam Yaw
+11.820	// Cam Pitch
+0.004, 0.050, 0.001	// Cam LookAt Offset
+0.669	// Light Dist
+156.703	// Light Yaw
+-9.058	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_11722"
+{
+"Bip01 Head"	// LookAt Bone
+0.840	// Cam Dist
+76.112	// Cam Yaw
+17.151	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_11723"
+{
+"Bip01 Head"	// LookAt Bone
+1.699	// Cam Dist
+65.281	// Cam Yaw
+-29.198	// Cam Pitch
+-0.122, 0.073, 0.064	// Cam LookAt Offset
+}
+
+"NPC_11727"
+{
+"Bip01 Head"	// LookAt Bone
+0.840	// Cam Dist
+107.890	// Cam Yaw
+5.651	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+}
+
+"NPC_Detail_11727"
+{
+"Bip01 Head"	// LookAt Bone
+0.810	// Cam Dist
+72.267	// Cam Yaw
+-0.600	// Cam Pitch
+0.000, 0.056, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+124.806	// Light Yaw
+45.664	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_11728"
+{
+"Bip01 Head"	// LookAt Bone
+0.879	// Cam Dist
+80.945	// Cam Yaw
+10.651	// Cam Pitch
+0.012, 0.099, -0.002	// Cam LookAt Offset
+}
+
+"NPC_11729"
+{
+"Bip01 Head"	// LookAt Bone
+3.330	// Cam Dist
+110.116	// Cam Yaw
+3.055	// Cam Pitch
+-0.253, -0.101, -0.081	// Cam LookAt Offset
+}
+
+"NPC_11731"
+{
+"Bip01 Head"	// LookAt Bone
+0.710	// Cam Dist
+72.056	// Cam Yaw
+4.351	// Cam Pitch
+-0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_11736"
+{
+"Bip01 Head"	// LookAt Bone
+1.000	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+}
+
+"NPC_12359"
+{
+"Bip01 Head"	// LookAt Bone
+7.168	// Cam Dist
+132.901	// Cam Yaw
+-4.474	// Cam Pitch
+-0.018, -0.139, -0.001	// Cam LookAt Offset
+0.820	// Light Dist
+92.203	// Light Yaw
+3.452	// Light Pitch
+-0.144, 0.345, -0.024	// Light Offset
+}
+
+"NPC_13271"
+{
+"Bip01 Head"	// LookAt Bone
+5.291	// Cam Dist
+7.707	// Cam Yaw
+-52.932	// Cam Pitch
+-0.690, 1.419, -0.183	// Cam LookAt Offset
+0.669	// Light Dist
+80.306	// Light Yaw
+-24.986	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_13307"
+{
+"Bip01 Head"	// LookAt Bone
+1.209	// Cam Dist
+112.604	// Cam Yaw
+-18.737	// Cam Pitch
+0.060, 0.103, 0.027	// Cam LookAt Offset
+0.669	// Light Dist
+151.603	// Light Yaw
+-14.998	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_13500"
+{
+"Bip01 Head"	// LookAt Bone
+12.610	// Cam Dist
+81.903	// Cam Yaw
+-26.386	// Cam Pitch
+-0.037, 1.053, 0.005	// Cam LookAt Offset
+0.144	// Light Dist
+-163.295	// Light Yaw
+7.932	// Light Pitch
+0.001, 0.300, 0.009	// Light Offset
+}
+
+"NPC_13501"
+{
+"Bip01 Head"	// LookAt Bone
+17.416	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+1.138, 4.509, 0.037	// Cam LookAt Offset
+7.261	// Light Dist
+99.203	// Light Yaw
+-10.138	// Light Pitch
+-0.067, 0.306, 0.019	// Light Offset
+}
+
+"NPC_13502"
+{
+"Bip01 Head"	// LookAt Bone
+14.603	// Cam Dist
+-139.798	// Cam Yaw
+-29.988	// Cam Pitch
+1.932, 8.906, -3.106	// Cam LookAt Offset
+0.669	// Light Dist
+-17.197	// Light Yaw
+-36.009	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_13503"
+{
+"Bip01 Head"	// LookAt Bone
+12.589	// Cam Dist
+134.101	// Cam Yaw
+8.081	// Cam Pitch
+-0.576, -1.577, -0.524	// Cam LookAt Offset
+0.669	// Light Dist
+141.704	// Light Yaw
+-16.077	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_13504"
+{
+"Bip01 Head"	// LookAt Bone
+3.262	// Cam Dist
+122.805	// Cam Yaw
+-16.756	// Cam Pitch
+-0.412, -0.924, -0.224	// Cam LookAt Offset
+0.669	// Light Dist
+60.003	// Light Yaw
+3.542	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_13505"
+{
+"Bip01 Head"	// LookAt Bone
+3.303	// Cam Dist
+139.701	// Cam Yaw
+9.341	// Cam Pitch
+-0.550, 4.587, -0.514	// Cam LookAt Offset
+1.208	// Light Dist
+114.803	// Light Yaw
+19.112	// Light Pitch
+0.291, 0.312, 0.194	// Light Offset
+}
+
+"NPC_13506"
+{
+"Bip01 Head"	// LookAt Bone
+3.526	// Cam Dist
+126.908	// Cam Yaw
+2.955	// Cam Pitch
+0.214, -0.394, 0.174	// Cam LookAt Offset
+1.894	// Light Dist
+136.303	// Light Yaw
+18.482	// Light Pitch
+-0.067, 0.310, 0.019	// Light Offset
+}
+
+"NPC_13507"
+{
+"Bip01 Head"	// LookAt Bone
+1.961	// Cam Dist
+128.503	// Cam Yaw
+-3.887	// Cam Pitch
+0.016, 1.778, 0.013	// Cam LookAt Offset
+2.960	// Light Dist
+158.104	// Light Yaw
+-23.098	// Light Pitch
+-0.066, 0.540, 0.021	// Light Offset
+}
+
+"NPC_14237"
+{
+"Bip01 Head"	// LookAt Bone
+6.780	// Cam Dist
+98.701	// Cam Yaw
+-9.379	// Cam Pitch
+0.000, 1.495, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+174.203	// Light Yaw
+7.233	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_14378"
+{
+"Bip01 Head"	// LookAt Bone
+1.545	// Cam Dist
+102.223	// Cam Yaw
+31.944	// Cam Pitch
+0.010, 0.199, 0.002	// Cam LookAt Offset
+4.435	// Light Dist
+165.506	// Light Yaw
+23.612	// Light Pitch
+-2.703, 1.041, -2.856	// Light Offset
+}
+
+"NPC_14379"
+{
+"Bip01 Head"	// LookAt Bone
+0.674	// Cam Dist
+131.604	// Cam Yaw
+-39.885	// Cam Pitch
+0.007, 1.045, 0.012	// Cam LookAt Offset
+0.669	// Light Dist
+17.205	// Light Yaw
+-80.089	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_14391"
+{
+"Bip01 Head"	// LookAt Bone
+12.321	// Cam Dist
+16.101	// Cam Yaw
+1.872	// Cam Pitch
+0.002, 2.231, -0.008	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_14772"
+{
+"Bip01 Head"	// LookAt Bone
+1.197	// Cam Dist
+111.718	// Cam Yaw
+20.698	// Cam Pitch
+0.032, 0.089, 0.013	// Cam LookAt Offset
+0.669	// Light Dist
+52.505	// Light Yaw
+-2.848	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_Detail_14772"
+{
+"Bip01 Head"	// LookAt Bone
+2.262	// Cam Dist
+72.267	// Cam Yaw
+-21.974	// Cam Pitch
+0.019, 0.255, -0.003	// Cam LookAt Offset
+1.036	// Light Dist
+114.803	// Light Yaw
+-12.119	// Light Pitch
+-0.047, 0.319, -0.020	// Light Offset
+}
+
+"NPC_Detail_15156"
+{
+"Bip01 Head"	// LookAt Bone
+0.938	// Cam Dist
+75.745	// Cam Yaw
+-4.347	// Cam Pitch
+-0.040, 0.099, 0.011	// Cam LookAt Offset
+0.234	// Light Dist
+92.304	// Light Yaw
+19.382	// Light Pitch
+-0.062, 0.307, 0.035	// Light Offset
+}
+
+"NPC_15186"
+{
+"Bip01 Head"	// LookAt Bone
+1.625	// Cam Dist
+90.000	// Cam Yaw
+4.750	// Cam Pitch
+0.001, 0.100, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_Detail_15216"
+{
+"Bip01 Head"	// LookAt Bone
+0.918	// Cam Dist
+139.771	// Cam Yaw
+-3.599	// Cam Pitch
+-0.032, 0.004, -0.011	// Cam LookAt Offset
+0.071	// Light Dist
+162.303	// Light Yaw
+-12.119	// Light Pitch
+-0.047, 0.294, 0.090	// Light Offset
+}
+
+"NPC_Detail_15256"
+{
+"Bip01 Head"	// LookAt Bone
+1.265	// Cam Dist
+67.267	// Cam Yaw
+18.525	// Cam Pitch
+-0.124, 0.083, 0.060	// Cam LookAt Offset
+0.243	// Light Dist
+94.803	// Light Yaw
+2.510	// Light Pitch
+-0.048, 0.199, 0.001	// Light Offset
+}
+
+"NPC_Detail_15562"
+{
+"Bip01 Head"	// LookAt Bone
+0.930	// Cam Dist
+69.768	// Cam Yaw
+-7.348	// Cam Pitch
+-0.048, 0.016, 0.019	// Cam LookAt Offset
+1.656	// Light Dist
+102.302	// Light Yaw
+32.751	// Light Pitch
+-0.062, 3.011, -0.012	// Light Offset
+}
+
+"NPC_Detail_15623"
+{
+"Bip01 Head"	// LookAt Bone
+1.217	// Cam Dist
+117.269	// Cam Yaw
+-0.600	// Cam Pitch
+-0.065, 0.003, -0.031	// Cam LookAt Offset
+0.463	// Light Dist
+112.305	// Light Yaw
+-14.366	// Light Pitch
+-0.040, 0.308, -0.014	// Light Offset
+}
+
+"NPC_15630"
+{
+"Bip01 Head"	// LookAt Bone
+1.385	// Cam Dist
+77.500	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.100, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_15631"
+{
+"Bip01 Head"	// LookAt Bone
+1.399	// Cam Dist
+72.500	// Cam Yaw
+37.375	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_15632"
+{
+"Bip01 Head"	// LookAt Bone
+1.360	// Cam Dist
+90.000	// Cam Yaw
+9.250	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_15633"
+{
+"Bip01 Head"	// LookAt Bone
+1.400	// Cam Dist
+90.000	// Cam Yaw
+3.625	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_15634"
+{
+"Bip01 Head"	// LookAt Bone
+1.193	// Cam Dist
+90.000	// Cam Yaw
+7.000	// Cam Pitch
+-0.000, 0.100, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_15635"
+{
+"Bip01 Head"	// LookAt Bone
+1.197	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_15815"
+{
+"Bip01 Head"	// LookAt Bone
+1.929	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.052, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_16183"
+{
+"Bip01 Head"	// LookAt Bone
+1.252	// Cam Dist
+77.501	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.095, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_18391"
+{
+"Bip01 Head"	// LookAt Bone
+0.561	// Cam Dist
+90.000	// Cam Yaw
+2.500	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_18392"
+{
+"Bip01 Head"	// LookAt Bone
+0.609	// Cam Dist
+90.000	// Cam Yaw
+2.500	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_18393"
+{
+"Bip01 Head"	// LookAt Bone
+0.608	// Cam Dist
+90.000	// Cam Yaw
+5.875	// Cam Pitch
+0.000, 0.100, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_18394"
+{
+"Bip01 Head"	// LookAt Bone
+0.754	// Cam Dist
+90.000	// Cam Yaw
+5.875	// Cam Pitch
+0.000, 0.072, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_18405"
+{
+"Bip01 Head"	// LookAt Bone
+0.853	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.049, 1.745, 0.001	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_18407"
+{
+"Bip01 Head"	// LookAt Bone
+0.658	// Cam Dist
+90.000	// Cam Yaw
+0.250	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_18408"
+{
+"Bip01 Head"	// LookAt Bone
+0.510	// Cam Dist
+90.000	// Cam Yaw
+3.625	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_18416"
+{
+"Bip01 Head"	// LookAt Bone
+0.609	// Cam Dist
+90.000	// Cam Yaw
+1.375	// Cam Pitch
+0.000, 0.100, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_18568"
+{
+"Bip01 Head"	// LookAt Bone
+0.612	// Cam Dist
+87.500	// Cam Yaw
+-0.873	// Cam Pitch
+0.037, 0.515, -0.004	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_19675"
+{
+"Bip01 Head"	// LookAt Bone
+0.550	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.048, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_20592"
+{
+"Bip01 Head"	// LookAt Bone
+1.234	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.141, 0.100, 0.008	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_20593"
+{
+"Bip01 Head"	// LookAt Bone
+1.187	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.125, 0.100, 0.007	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_20868"
+{
+"Bip01 Head"	// LookAt Bone
+4.720	// Cam Dist
+90.000	// Cam Yaw
+-12.125	// Cam Pitch
+0.022, 0.579, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_20869"
+{
+"Bip01 Head"	// LookAt Bone
+10.951	// Cam Dist
+35.001	// Cam Yaw
+-2.000	// Cam Pitch
+-0.004, 1.096, 0.006	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_20870"
+{
+"Bip01 Head"	// LookAt Bone
+5.859	// Cam Dist
+97.502	// Cam Yaw
+-12.124	// Cam Pitch
+0.046, 0.731, 0.006	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_20871"
+{
+"Bip01 Head"	// LookAt Bone
+13.485	// Cam Dist
+90.000	// Cam Yaw
+12.628	// Cam Pitch
+0.000, 2.878, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_20872"
+{
+"Bip01 Head"	// LookAt Bone
+4.664	// Cam Dist
+90.000	// Cam Yaw
+-19.250	// Cam Pitch
+-0.003, 0.519, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_20873"
+{
+"Bip01 Head"	// LookAt Bone
+6.130	// Cam Dist
+90.000	// Cam Yaw
+-14.374	// Cam Pitch
+-0.000, 0.719, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_20874"
+{
+"Bip01 Head"	// LookAt Bone
+5.962	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.088, 0.976, 0.001	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_20875"
+{
+"Bip01 Head"	// LookAt Bone
+7.135	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.859, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_20876"
+{
+"Bip01 Head"	// LookAt Bone
+7.036	// Cam Dist
+100.001	// Cam Yaw
+-2.000	// Cam Pitch
+-0.213, 1.000, -0.034	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_20877"
+{
+"Bip01 Head"	// LookAt Bone
+4.086	// Cam Dist
+100.000	// Cam Yaw
+-14.375	// Cam Pitch
+0.000, 0.304, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_20878"
+{
+"Bip01 Head"	// LookAt Bone
+4.128	// Cam Dist
+-99.999	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.493, 0.001	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_20879"
+{
+"Bip01 Head"	// LookAt Bone
+3.737	// Cam Dist
+90.000	// Cam Yaw
+-14.374	// Cam Pitch
+-0.000, 0.244, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_20880"
+{
+"Bip01 Head"	// LookAt Bone
+2.773	// Cam Dist
+97.501	// Cam Yaw
+-15.500	// Cam Pitch
+0.001, 0.304, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_20943"
+{
+"Bip01 Head"	// LookAt Bone
+2.950	// Cam Dist
+42.501	// Cam Yaw
+-2.000	// Cam Pitch
+-0.033, -0.016, 0.036	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_20944"
+{
+"Bip01 Head"	// LookAt Bone
+4.686	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.064, 0.573, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_21346"
+{
+"Bip01 Head"	// LookAt Bone
+3.734	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.228, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_21347"
+{
+"Bip01 Head"	// LookAt Bone
+5.450	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 3.386, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_21348"
+{
+"Bip01 Head"	// LookAt Bone
+8.560	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+-0.000, 0.879, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_21349"
+{
+"Bip01 Head"	// LookAt Bone
+4.419	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 0.672, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_21368"
+{
+"Bip01 Head"	// LookAt Bone
+5.851	// Cam Dist
+105.001	// Cam Yaw
+-2.000	// Cam Pitch
+-0.001, 0.677, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_21369"
+{
+"Bip01 Head"	// LookAt Bone
+9.751	// Cam Dist
+90.000	// Cam Yaw
+-2.000	// Cam Pitch
+0.000, 1.718, -0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_21370"
+{
+"Bip01 Head"	// LookAt Bone
+12.095	// Cam Dist
+90.001	// Cam Yaw
+-0.875	// Cam Pitch
+0.063, 4.694, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_21371"
+{
+"Bip01 Head"	// LookAt Bone
+3.828	// Cam Dist
+90.000	// Cam Yaw
+3.250	// Cam Pitch
+-0.087, 1.277, 0.001	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_21372"
+{
+"Bip01 Head"	// LookAt Bone
+5.709	// Cam Dist
+90.000	// Cam Yaw
+-18.875	// Cam Pitch
+0.097, 1.083, 0.001	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_21412"
+{
+"Bip01 Head"	// LookAt Bone
+3.907	// Cam Dist
+90.000	// Cam Yaw
+-45.874	// Cam Pitch
+-0.003, 0.695, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_21925"
+{
+"Bip01 Head"	// LookAt Bone
+0.309	// Cam Dist
+66.113	// Cam Yaw
+-47.249	// Cam Pitch
+-0.124, 0.723, 0.176	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_22156"
+{
+"Bip01 Head"	// LookAt Bone
+0.686	// Cam Dist
+92.267	// Cam Yaw
+2.775	// Cam Pitch
+-0.000, 0.356, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_23018"
+{
+"Bip01 Head"	// LookAt Bone
+3.907	// Cam Dist
+90.000	// Cam Yaw
+-45.874	// Cam Pitch
+-0.003, 0.695, 0.000	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+
+"NPC_24506"
+{
+"Bip01 Head"	// LookAt Bone
+0.944	// Cam Dist
+87.267	// Cam Yaw
+-3.099	// Cam Pitch
+-0.024, 0.501, 0.001	// Cam LookAt Offset
+0.669	// Light Dist
+74.802	// Light Yaw
+-12.119	// Light Pitch
+-0.066, 0.309, 0.022	// Light Offset
+}
+

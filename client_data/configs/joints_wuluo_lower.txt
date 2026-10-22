@@ -1,0 +1,23 @@
+000
+古琴骨骼
+Bip01
+Bip01 Pelvis
+Bip01 Spine
+Bip01 L Thigh
+Bip01 L Calf
+Bip01 L Foot
+Bip01 L Toe0
+Bip01 R Thigh
+Bip01 R Calf
+Bip01 R Foot
+Bip01 R Toe0
+前飘带1
+前飘带2
+前飘带3
+后飘带1
+后飘带2
+后飘带3
+右侧飘带1
+右侧飘带2
+左侧飘带1
+左侧飘带2

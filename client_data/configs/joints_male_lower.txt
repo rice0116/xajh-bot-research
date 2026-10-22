@@ -1,0 +1,23 @@
+000
+Bip01
+Bip01 Pelvis
+Bip01 Spine
+Bip01 L Thigh
+Bip01 L Calf
+Bip01 L Foot
+Bip01 L Toe0
+Bip01 R Thigh
+Bip01 R Calf
+Bip01 R Foot
+Bip01 R Toe0
+Bip01 Tail
+Bip01 Tail1
+Bip01 Tail2
+前飘带1
+前飘带2
+前飘带3
+左侧飘带1
+左侧飘带2
+右侧飘带1
+右侧飘带2
+古琴骨骼
